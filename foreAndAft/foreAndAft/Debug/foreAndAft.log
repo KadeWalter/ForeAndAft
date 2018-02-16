@@ -1,7 +1,27 @@
 ﻿  foreAndAft.cpp
-c:\users\kade\documents\college\junior\cs 438\foreandaft\foreandaft\foreandaft.cpp(314): warning C4101: 'dc': unreferenced local variable
-c:\users\kade\documents\college\junior\cs 438\foreandaft\foreandaft\foreandaft.cpp(314): warning C4101: 'dr': unreferenced local variable
-c:\users\kade\documents\college\junior\cs 438\foreandaft\foreandaft\foreandaft.cpp(314): warning C4101: 'c': unreferenced local variable
-c:\users\kade\documents\college\junior\cs 438\foreandaft\foreandaft\foreandaft.cpp(314): warning C4101: 'r': unreferenced local variable
-c:\users\kade\documents\college\junior\cs 438\foreandaft\foreandaft\foreandaft.cpp(383): warning C4101: 'fv': unreferenced local variable
-  foreAndAft.vcxproj -> C:\Users\Kade\Documents\College\Junior\CS 438\foreAndAft\Debug\foreAndAft.exe
+c:\users\kadew\documents\github\foreandaft\foreandaft\foreandaft\foreandaft.cpp(52): error C2374: 'm': redefinition; multiple initialization
+  c:\users\kadew\documents\github\foreandaft\foreandaft\foreandaft\foreandaft.cpp(51): note: see declaration of 'm'
+c:\users\kadew\documents\github\foreandaft\foreandaft\foreandaft\foreandaft.cpp(55): error C2088: '[': illegal for class
+c:\users\kadew\documents\github\foreandaft\foreandaft\foreandaft\foreandaft.cpp(124): error C2039: 'm': is not a member of 'node'
+  c:\users\kadew\documents\github\foreandaft\foreandaft\foreandaft\foreandaft.cpp(45): note: see declaration of 'node'
+c:\users\kadew\documents\github\foreandaft\foreandaft\foreandaft\foreandaft.cpp(124): error C2660: 'print1puzzle': function does not take 1 arguments
+c:\users\kadew\documents\github\foreandaft\foreandaft\foreandaft\foreandaft.cpp(373): error C2039: 'm': is not a member of 'node'
+  c:\users\kadew\documents\github\foreandaft\foreandaft\foreandaft\foreandaft.cpp(45): note: see declaration of 'node'
+c:\users\kadew\documents\github\foreandaft\foreandaft\foreandaft\foreandaft.cpp(382): error C2039: 'm': is not a member of 'node'
+  c:\users\kadew\documents\github\foreandaft\foreandaft\foreandaft\foreandaft.cpp(45): note: see declaration of 'node'
+c:\users\kadew\documents\github\foreandaft\foreandaft\foreandaft\foreandaft.cpp(386): error C2039: 'm': is not a member of 'node'
+  c:\users\kadew\documents\github\foreandaft\foreandaft\foreandaft\foreandaft.cpp(45): note: see declaration of 'node'
+c:\users\kadew\documents\github\foreandaft\foreandaft\foreandaft\foreandaft.cpp(401): error C2039: 'm': is not a member of 'node'
+  c:\users\kadew\documents\github\foreandaft\foreandaft\foreandaft\foreandaft.cpp(45): note: see declaration of 'node'
+c:\users\kadew\documents\github\foreandaft\foreandaft\foreandaft\foreandaft.cpp(416): error C2039: 'm': is not a member of 'node'
+  c:\users\kadew\documents\github\foreandaft\foreandaft\foreandaft\foreandaft.cpp(45): note: see declaration of 'node'
+c:\users\kadew\documents\github\foreandaft\foreandaft\foreandaft\foreandaft.cpp(431): error C2039: 'm': is not a member of 'node'
+  c:\users\kadew\documents\github\foreandaft\foreandaft\foreandaft\foreandaft.cpp(45): note: see declaration of 'node'
+c:\users\kadew\documents\github\foreandaft\foreandaft\foreandaft\foreandaft.cpp(446): error C2039: 'm': is not a member of 'node'
+  c:\users\kadew\documents\github\foreandaft\foreandaft\foreandaft\foreandaft.cpp(45): note: see declaration of 'node'
+c:\users\kadew\documents\github\foreandaft\foreandaft\foreandaft\foreandaft.cpp(461): error C2039: 'm': is not a member of 'node'
+  c:\users\kadew\documents\github\foreandaft\foreandaft\foreandaft\foreandaft.cpp(45): note: see declaration of 'node'
+c:\users\kadew\documents\github\foreandaft\foreandaft\foreandaft\foreandaft.cpp(476): error C2039: 'm': is not a member of 'node'
+  c:\users\kadew\documents\github\foreandaft\foreandaft\foreandaft\foreandaft.cpp(45): note: see declaration of 'node'
+c:\users\kadew\documents\github\foreandaft\foreandaft\foreandaft\foreandaft.cpp(491): error C2039: 'm': is not a member of 'node'
+  c:\users\kadew\documents\github\foreandaft\foreandaft\foreandaft\foreandaft.cpp(45): note: see declaration of 'node'
