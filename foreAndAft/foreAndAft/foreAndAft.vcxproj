@@ -147,12 +147,24 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="heap.h" />
+    <ClInclude Include="eleHeap.h" />
+    <ClInclude Include="eleven.h" />
+    <ClInclude Include="five.h" />
+    <ClInclude Include="fiveHeap.h" />
+    <ClInclude Include="nine.h" />
+    <ClInclude Include="nineHeap.h" />
+    <ClInclude Include="seven.h" />
+    <ClInclude Include="sevenHeap.h" />
     <ClInclude Include="stdafx.h" />
+    <ClInclude Include="structs.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="eleven.cpp" />
+    <ClCompile Include="five.cpp" />
     <ClCompile Include="foreAndAft.cpp" />
+    <ClCompile Include="nine.cpp" />
+    <ClCompile Include="seven.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
