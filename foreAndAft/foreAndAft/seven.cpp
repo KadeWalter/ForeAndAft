@@ -1,7 +1,7 @@
 #include "stdafx.h"
 #include "structs.h"
-#include "fiveHeap.h"
-#include "five.h"
+#include "sevenHeap.h"
+#include "seven.h"
 
 #include <iostream>
 #include <fstream>
@@ -17,17 +17,17 @@
 using namespace std;
 
 //possible goalFive solutions
-const string GOAL_FIVE = "BBB##BBB##BB0RR##RRR##RRR";
+const string GOAL_SEVEN = "BBBB###BBBB###BBBB###BBB0RRR###RRRR###RRRR###RRRR";
 
-int FIVE_SIZE;
-string goalFive;
-string GOAL_FIVE_MATRIX[sizeFive][sizeFive];
+int SEVEN_SIZE;
+string goalSeven;
+string GOAL_SEVEN_MATRIX[sizeSeven][sizeSeven];
 
 
-class nodeheap : public heap<nodeFive *, 100000>
+class nodeheap : public heap<nodeSeven *, 100000>
 {
 public:
-	friend int five::le(nodeFive *n1, nodeFive *n2);  // less than or equal to
+	friend int seven::le(nodeSeven *n1, nodeSeven *n2);  // less than or equal to
 	~nodeheap()
 	{
 		for (int k = 0; k < heap_size; k++) delete data[k];
@@ -35,16 +35,16 @@ public:
 
 };
 
-int five::le(nodeFive *n1, nodeFive *n2)
+int seven::le(nodeSeven *n1, nodeSeven *n2)
 {
-	return ((n1->fv) > (n2->fv));
+	return ((n1->fv) >(n2->fv));
 }
 
-void five::getstring(string m[][sizeFive], string &s1)
+void seven::getstring(string m[][sizeSeven], string &s1)
 {
 	string s;
-	for (int r = 0; r < FIVE_SIZE; r++)
-		for (int c = 0; c < FIVE_SIZE; c++)
+	for (int r = 0; r < SEVEN_SIZE; r++)
+		for (int c = 0; c < SEVEN_SIZE; c++)
 		{
 			if (m[r][c] == " ")
 				s += '0';
@@ -54,24 +54,24 @@ void five::getstring(string m[][sizeFive], string &s1)
 	s1 = s;
 }
 
-void five::print1puzzle(ostream &out, string m[][sizeFive])
+void seven::print1puzzle(ostream &out, string m[][sizeSeven])
 {
 	out << setiosflags(ios::fixed | ios::showpoint)
 		<< setprecision(2);
 
-	for (int r = 0; r < FIVE_SIZE; r++)
+	for (int r = 0; r < SEVEN_SIZE; r++)
 	{
-		for (int c = 0; c < FIVE_SIZE; c++)
+		for (int c = 0; c < SEVEN_SIZE; c++)
 			out << m[r][c];
 		out << endl;
 	}
 }
 
-void five::printsolution(nodeFive* n)
+void seven::printsolution(nodeSeven* n)
 {
 
 
-	string sizeString = to_string(FIVE_SIZE);
+	string sizeString = to_string(SEVEN_SIZE);
 	ofstream file(sizeString + "BEST.out");
 
 	while (n->parent)
@@ -94,24 +94,24 @@ void five::printsolution(nodeFive* n)
 	cout << "Puzzle solved in " << count << " steps.\n\n";
 }
 
-void five::swap(string &a, string &b)
+void seven::swap(string &a, string &b)
 {
 	string tmp = a;
 	a = b;
 	b = tmp;
 }
 
-void five::copy(string m[][sizeFive], string n[][sizeFive])
+void seven::copy(string m[][sizeSeven], string n[][sizeSeven])
 {
-	for (int r = 0; r < FIVE_SIZE; r++)
-		for (int c = 0; c < FIVE_SIZE; c++)
+	for (int r = 0; r < SEVEN_SIZE; r++)
+		for (int c = 0; c < SEVEN_SIZE; c++)
 			n[r][c] = m[r][c];
 }
 
-void five::getposition(string m[][sizeFive], string value, int &row, int &column)
+void seven::getposition(string m[][sizeSeven], string value, int &row, int &column)
 {
-	for (int r = 0; r < FIVE_SIZE; r++)
-		for (int c = 0; c < FIVE_SIZE; c++)
+	for (int r = 0; r < SEVEN_SIZE; r++)
+		for (int c = 0; c < SEVEN_SIZE; c++)
 		{
 			if (m[r][c] == value)
 			{
@@ -120,12 +120,12 @@ void five::getposition(string m[][sizeFive], string value, int &row, int &column
 		}
 }
 
-bool five::isSafe(int i, int j)
+bool seven::isSafe(int i, int j)
 {
-	int halfSize = (FIVE_SIZE - 1) / 2;
-	if (i >= 0 && i < FIVE_SIZE && j >= 0 && j < FIVE_SIZE)
+	int halfSize = (SEVEN_SIZE - 1) / 2;
+	if (i >= 0 && i < SEVEN_SIZE && j >= 0 && j < SEVEN_SIZE)
 	{
-		if (GOAL_FIVE_MATRIX[i][j] == "#")
+		if (GOAL_SEVEN_MATRIX[i][j] == "#")
 			return false;
 		return true;
 	}
@@ -133,7 +133,7 @@ bool five::isSafe(int i, int j)
 		return false;
 }
 
-int five::up(string m[][sizeFive], string n[][sizeFive])
+int seven::up(string m[][sizeSeven], string n[][sizeSeven])
 {
 	int r0, c0;
 	copy(m, n);
@@ -148,7 +148,7 @@ int five::up(string m[][sizeFive], string n[][sizeFive])
 		return 0;
 }
 
-int five::jumpUp(string m[][sizeFive], string n[][sizeFive])
+int seven::jumpUp(string m[][sizeSeven], string n[][sizeSeven])
 {
 	int r0, c0;
 	copy(m, n);
@@ -163,7 +163,7 @@ int five::jumpUp(string m[][sizeFive], string n[][sizeFive])
 		return 0;
 }
 
-int five::down(string m[][sizeFive], string n[][sizeFive])
+int seven::down(string m[][sizeSeven], string n[][sizeSeven])
 {
 	int r0, c0;
 	copy(m, n);
@@ -178,7 +178,7 @@ int five::down(string m[][sizeFive], string n[][sizeFive])
 		return 0;
 }
 
-int five::jumpDown(string m[][sizeFive], string n[][sizeFive])
+int seven::jumpDown(string m[][sizeSeven], string n[][sizeSeven])
 {
 	int r0, c0;
 	copy(m, n);
@@ -193,7 +193,7 @@ int five::jumpDown(string m[][sizeFive], string n[][sizeFive])
 		return 0;
 }
 
-int five::left(string m[][sizeFive], string n[][sizeFive])
+int seven::left(string m[][sizeSeven], string n[][sizeSeven])
 {
 	int r0, c0;
 	copy(m, n);
@@ -208,7 +208,7 @@ int five::left(string m[][sizeFive], string n[][sizeFive])
 		return 0;
 }
 
-int five::jumpLeft(string m[][sizeFive], string n[][sizeFive])
+int seven::jumpLeft(string m[][sizeSeven], string n[][sizeSeven])
 {
 	int r0, c0;
 	copy(m, n);
@@ -223,7 +223,7 @@ int five::jumpLeft(string m[][sizeFive], string n[][sizeFive])
 		return 0;
 }
 
-int five::right(string m[][sizeFive], string n[][sizeFive])
+int seven::right(string m[][sizeSeven], string n[][sizeSeven])
 {
 	int r0, c0;
 	copy(m, n);
@@ -238,7 +238,7 @@ int five::right(string m[][sizeFive], string n[][sizeFive])
 		return 0;
 }
 
-int five::jumpRight(string m[][sizeFive], string n[][sizeFive])
+int seven::jumpRight(string m[][sizeSeven], string n[][sizeSeven])
 {
 	int r0, c0;
 	copy(m, n);
@@ -255,49 +255,49 @@ int five::jumpRight(string m[][sizeFive], string n[][sizeFive])
 
 // f(n) = g(n) + C*H2(n)
 
-float FIVE_C = 5.0;
+float SEVEN_C = 5.0;
 
-float five::h(string m[][sizeFive])
+float seven::h(string m[][sizeSeven])
 {
-	int halfSize = (FIVE_SIZE - 1) / 2;
-	int goalBlueTotal = 50;
+	int halfSize = (SEVEN_SIZE - 1) / 2;
+	int goalBlueTotal = 183;
 	int currBlueTotal = 0;
 	int total_distance = 0;
 
-	for (int i = 0; i < FIVE_SIZE; i++)
+	for (int i = 0; i < SEVEN_SIZE; i++)
 	{
-		for (int j = 0; j < FIVE_SIZE; j++)
+		for (int j = 0; j < SEVEN_SIZE; j++)
 		{
 			if (m[i][j] == "B")
 			{
-				int temp = (FIVE_SIZE * i) + (j + 1);
+				int temp = (SEVEN_SIZE * i) + (j + 1);
 				currBlueTotal += temp;
 			}
 		}
 	}
 
 	total_distance = currBlueTotal - goalBlueTotal;
-	return FIVE_C * total_distance;
+	return SEVEN_C * total_distance;
 
 }
 
 
-void five::best(string sm[][sizeFive])
+void seven::best(string sm[][sizeSeven])
 {
 
-	nodeFive *start, *current, *succ;
+	nodeSeven *start, *current, *succ;
 	nodeheap open;
 	set<string> close;
 	string s;
 
-	start = new nodeFive(sm);
+	start = new nodeSeven(sm);
 	start->gv = 0; // cost so far is 0
 	open.push_heap(start);
 
 	getstring(sm, s);
 	close.insert(s);
 
-	string temp[sizeFive][sizeFive];
+	string temp[sizeSeven][sizeSeven];
 	int success = 0;
 
 	long gencount = 1;
@@ -306,12 +306,12 @@ void five::best(string sm[][sizeFive])
 	{
 		open.pop_heap(current);
 		getstring(current->m, s);
-		if (s == GOAL_FIVE)
+		if (s == GOAL_SEVEN)
 		{
 			printsolution(current);
 			success = 1;
 		}
-		else // s is not goal
+		else // s is not goalFive
 		{
 			if (current->parent != NULL)
 				getstring(current->parent->m, s);
@@ -325,7 +325,7 @@ void five::best(string sm[][sizeFive])
 				if (close.find(s1) == close.end())
 				{
 					close.insert(s1);
-					succ = new nodeFive(temp, current);
+					succ = new nodeSeven(temp, current);
 					succ->hv = h(temp);
 					succ->gv = (current->gv) + 1;
 					succ->fv = succ->hv + succ->gv;
@@ -340,7 +340,7 @@ void five::best(string sm[][sizeFive])
 				if (close.find(s1) == close.end())
 				{
 					close.insert(s1);
-					succ = new nodeFive(temp, current);
+					succ = new nodeSeven(temp, current);
 					succ->hv = hv = h(temp);
 					succ->gv = gv = (current->gv) + 1;
 					succ->fv = hv + gv;
@@ -355,7 +355,7 @@ void five::best(string sm[][sizeFive])
 				if (close.find(s1) == close.end())
 				{
 					close.insert(s1);
-					succ = new nodeFive(temp, current);
+					succ = new nodeSeven(temp, current);
 					succ->hv = hv = h(temp);
 					succ->gv = gv = (current->gv) + 1;
 					succ->fv = hv + gv;
@@ -370,7 +370,7 @@ void five::best(string sm[][sizeFive])
 				if (close.find(s1) == close.end())
 				{
 					close.insert(s1);
-					succ = new nodeFive(temp, current);
+					succ = new nodeSeven(temp, current);
 					succ->hv = hv = h(temp);
 					succ->gv = gv = (current->gv) + 1;
 					succ->fv = hv + gv;
@@ -385,7 +385,7 @@ void five::best(string sm[][sizeFive])
 				if (close.find(s1) == close.end())
 				{
 					close.insert(s1);
-					succ = new nodeFive(temp, current);
+					succ = new nodeSeven(temp, current);
 					succ->hv = h(temp);
 					succ->gv = (current->gv) + 1;
 					succ->fv = succ->hv + succ->gv;
@@ -400,7 +400,7 @@ void five::best(string sm[][sizeFive])
 				if (close.find(s1) == close.end())
 				{
 					close.insert(s1);
-					succ = new nodeFive(temp, current);
+					succ = new nodeSeven(temp, current);
 					succ->hv = hv = h(temp);
 					succ->gv = gv = (current->gv) + 1;
 					succ->fv = hv + gv;
@@ -415,7 +415,7 @@ void five::best(string sm[][sizeFive])
 				if (close.find(s1) == close.end())
 				{
 					close.insert(s1);
-					succ = new nodeFive(temp, current);
+					succ = new nodeSeven(temp, current);
 					succ->hv = hv = h(temp);
 					succ->gv = gv = (current->gv) + 1;
 					succ->fv = hv + gv;
@@ -430,7 +430,7 @@ void five::best(string sm[][sizeFive])
 				if (close.find(s1) == close.end())
 				{
 					close.insert(s1);
-					succ = new nodeFive(temp, current);
+					succ = new nodeSeven(temp, current);
 					succ->hv = hv = h(temp);
 					succ->gv = gv = (current->gv) + 1;
 					succ->fv = hv + gv;
@@ -441,16 +441,15 @@ void five::best(string sm[][sizeFive])
 		}
 	}
 	cout << gencount << " nodes visted.\n";
-	exit();
-	return;
 }
 
-void five::fiveMain()
+void seven::sevenMain()
 {
-	int size = 5;
-	string GAME_BOARD[sizeFive][sizeFive];
-	FIVE_SIZE = size;
-	int halfSize = (FIVE_SIZE - 1) / 2;
+	int size = sizeSeven;
+	string GAME_BOARD[sizeSeven][sizeSeven];
+	SEVEN_SIZE = size;
+	goalSeven = GOAL_SEVEN;
+	int halfSize = (SEVEN_SIZE - 1) / 2;
 	//creating the gameboard
 	for (int i = 0; i < size; i++)
 	{
@@ -493,7 +492,7 @@ void five::fiveMain()
 			}
 		}
 	}
-	//creating the goal matrix
+	//creating the goalFive matrix
 	for (int i = 0; i < size; i++)
 	{
 		if (i < halfSize)
@@ -501,11 +500,11 @@ void five::fiveMain()
 			int j = 0;
 			for (j; j <= halfSize; j++)
 			{
-				GOAL_FIVE_MATRIX[i][j] = "B";
+				GOAL_SEVEN_MATRIX[i][j] = "B";
 			}
 			for (j; j < size; j++)
 			{
-				GOAL_FIVE_MATRIX[i][j] = "#";
+				GOAL_SEVEN_MATRIX[i][j] = "#";
 			}
 		}
 		else if (i == halfSize)
@@ -513,13 +512,13 @@ void five::fiveMain()
 			int j = 0;
 			for (j; j < halfSize; j++)
 			{
-				GOAL_FIVE_MATRIX[i][j] = "B";
+				GOAL_SEVEN_MATRIX[i][j] = "B";
 			}
-			GOAL_FIVE_MATRIX[i][j] = " ";
+			GOAL_SEVEN_MATRIX[i][j] = " ";
 			j++;
 			for (j; j < size; j++)
 			{
-				GOAL_FIVE_MATRIX[i][j] = "R";
+				GOAL_SEVEN_MATRIX[i][j] = "R";
 			}
 		}
 		else if (i > halfSize)
@@ -527,28 +526,22 @@ void five::fiveMain()
 			int j = 0;
 			for (j; j < halfSize; j++)
 			{
-				GOAL_FIVE_MATRIX[i][j] = "#";
+				GOAL_SEVEN_MATRIX[i][j] = "#";
 			}
 			for (j; j < size; j++)
 			{
-				GOAL_FIVE_MATRIX[i][j] = "R";
+				GOAL_SEVEN_MATRIX[i][j] = "R";
 			}
 		}
 	}
 	best(GAME_BOARD);
-	return;
 }
 
-void five::exit()
-{
-	return;
-}
-
-five::five()
+seven::seven()
 {
 }
 
 
-five::~five()
+seven::~seven()
 {
 }

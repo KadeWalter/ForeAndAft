@@ -1,5 +1,7 @@
 #pragma once
 #include "stdafx.h"
+#include "structs.h"
+
 #include <iostream>
 #include <fstream>
 #include <iomanip>
@@ -17,21 +19,11 @@ using namespace std;
 class five
 {
 public:
-	//possible goal solutions
-	const string goalFive = "BBB##BBB##BB0RR##RRR##RRR";
-	const string goalSeven = "BBBB###BBBB###BBBB###BBB0RRR###RRRR###RRRR###RRRR";
-	const string goalNine = "BBBBB####BBBBB####BBBBB####BBBBB####BBBB0RRRR####RRRRR####RRRRR####RRRRR####RRRRR";
-	const string goalEleven = "BBBBBB#####BBBBBB#####BBBBBB#####BBBBBB#####BBBBBB#####BBBBB0RRRRR#####RRRRRR#####RRRRRR#####RRRRRR#####RRRRRR#####RRRRRR";
-	//possible game sizes
-	const int sizeFive = 5;
-	const int sizeSeven = 7;
-	const int sizeNine = 9;
-	const int sizeEleven = 11;
-	
-	int le(node *n1, node *n2);
+
+	int le(nodeFive *n1, nodeFive *n2);
 	void getstring(string m[][sizeFive], string &s1);
 	void print1puzzle(ostream &out, string m[][sizeFive]);
-	void printsolution(node* n);
+	void printsolution(nodeFive* n);
 	void swap(string &a, string &b);
 	void copy(string m[][sizeFive], string n[][sizeFive]);
 	void getposition(string m[][sizeFive], string value, int &row, int &column);
@@ -47,6 +39,7 @@ public:
 	float h(string m[][sizeFive]);
 	void best(string sm[][sizeFive]);
 	void fiveMain();
+	void exit();
 	five();
 	~five();
 };
