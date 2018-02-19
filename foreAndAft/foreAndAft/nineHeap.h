@@ -1,4 +1,3 @@
-#pragma once
 #include "nine.h"
 template<class T, int max_size>
 class heap

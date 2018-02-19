@@ -255,12 +255,12 @@ int nine::jumpRight(string m[][sizeNine], string n[][sizeNine])
 
 // f(n) = g(n) + C*H2(n)
 
-float NINE_C = 5.0;
+float NINE_C = 10.0;
 
 float nine::h(string m[][sizeNine])
 {
 	int halfSize = (NINE_SIZE - 1) / 2;
-	int goalBlueTotal = 50;
+	int goalBlueTotal = 484;
 	int currBlueTotal = 0;
 	int total_distance = 0;
 

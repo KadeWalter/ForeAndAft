@@ -147,8 +147,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="eleHeap.h" />
-    <ClInclude Include="eleven.h" />
+    <ClInclude Include="el.h" />
+    <ClInclude Include="elevenHeap.h" />
     <ClInclude Include="five.h" />
     <ClInclude Include="fiveHeap.h" />
     <ClInclude Include="nine.h" />
@@ -160,7 +160,6 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="eleven.cpp" />
     <ClCompile Include="five.cpp" />
     <ClCompile Include="foreAndAft.cpp" />
     <ClCompile Include="nine.cpp" />

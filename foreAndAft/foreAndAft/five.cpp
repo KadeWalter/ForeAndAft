@@ -285,7 +285,7 @@ float five::h(string m[][sizeFive])
 void five::best(string sm[][sizeFive])
 {
 
-	nodeFive *start, *current, *succ;
+	nodeFive *start, *five_current, *five_succ;
 	nodeheap open;
 	set<string> close;
 	string s;
@@ -304,145 +304,143 @@ void five::best(string sm[][sizeFive])
 
 	while (!open.heap_empty() && !success)
 	{
-		open.pop_heap(current);
-		getstring(current->m, s);
+		open.pop_heap(five_current);
+		getstring(five_current->m, s);
 		if (s == GOAL_FIVE)
 		{
-			printsolution(current);
+			printsolution(five_current);
 			success = 1;
 		}
 		else // s is not goal
 		{
-			if (current->parent != NULL)
-				getstring(current->parent->m, s);
+			if (five_current->parent != NULL)
+				getstring(five_current->parent->m, s);
 			else
 				s = "";
 			float fv, gv, hv;
-			if (up(current->m, temp))
+			if (up(five_current->m, temp))
 			{
 				string s1;
 				getstring(temp, s1);
 				if (close.find(s1) == close.end())
 				{
 					close.insert(s1);
-					succ = new nodeFive(temp, current);
-					succ->hv = h(temp);
-					succ->gv = (current->gv) + 1;
-					succ->fv = succ->hv + succ->gv;
-					open.push_heap(succ);
+					five_succ = new nodeFive(temp, five_current);
+					five_succ->hv = h(temp);
+					five_succ->gv = (five_current->gv) + 1;
+					five_succ->fv = five_succ->hv + five_succ->gv;
+					open.push_heap(five_succ);
 					gencount++;
 				}
 			}
-			if (right(current->m, temp))
+			if (right(five_current->m, temp))
 			{
 				string s1;
 				getstring(temp, s1);
 				if (close.find(s1) == close.end())
 				{
 					close.insert(s1);
-					succ = new nodeFive(temp, current);
-					succ->hv = hv = h(temp);
-					succ->gv = gv = (current->gv) + 1;
-					succ->fv = hv + gv;
-					open.push_heap(succ);
+					five_succ = new nodeFive(temp, five_current);
+					five_succ->hv = hv = h(temp);
+					five_succ->gv = gv = (five_current->gv) + 1;
+					five_succ->fv = hv + gv;
+					open.push_heap(five_succ);
 					gencount++;
 				}
 			}
-			if (left(current->m, temp))
+			if (left(five_current->m, temp))
 			{
 				string s1;
 				getstring(temp, s1);
 				if (close.find(s1) == close.end())
 				{
 					close.insert(s1);
-					succ = new nodeFive(temp, current);
-					succ->hv = hv = h(temp);
-					succ->gv = gv = (current->gv) + 1;
-					succ->fv = hv + gv;
-					open.push_heap(succ);
+					five_succ = new nodeFive(temp, five_current);
+					five_succ->hv = hv = h(temp);
+					five_succ->gv = gv = (five_current->gv) + 1;
+					five_succ->fv = hv + gv;
+					open.push_heap(five_succ);
 					gencount++;
 				}
 			}
-			if (down(current->m, temp))
+			if (down(five_current->m, temp))
 			{
 				string s1;
 				getstring(temp, s1);
 				if (close.find(s1) == close.end())
 				{
 					close.insert(s1);
-					succ = new nodeFive(temp, current);
-					succ->hv = hv = h(temp);
-					succ->gv = gv = (current->gv) + 1;
-					succ->fv = hv + gv;
-					open.push_heap(succ);
+					five_succ = new nodeFive(temp, five_current);
+					five_succ->hv = hv = h(temp);
+					five_succ->gv = gv = (five_current->gv) + 1;
+					five_succ->fv = hv + gv;
+					open.push_heap(five_succ);
 					gencount++;
 				}
 			}
-			if (jumpUp(current->m, temp))
+			if (jumpUp(five_current->m, temp))
 			{
 				string s1;
 				getstring(temp, s1);
 				if (close.find(s1) == close.end())
 				{
 					close.insert(s1);
-					succ = new nodeFive(temp, current);
-					succ->hv = h(temp);
-					succ->gv = (current->gv) + 1;
-					succ->fv = succ->hv + succ->gv;
-					open.push_heap(succ);
+					five_succ = new nodeFive(temp, five_current);
+					five_succ->hv = hv = h(temp);
+					five_succ->gv = gv = (five_current->gv) + 1;
+					five_succ->fv = hv + gv;
+					open.push_heap(five_succ);
 					gencount++;
 				}
 			}
-			if (jumpRight(current->m, temp))
+			if (jumpRight(five_current->m, temp))
 			{
 				string s1;
 				getstring(temp, s1);
 				if (close.find(s1) == close.end())
 				{
 					close.insert(s1);
-					succ = new nodeFive(temp, current);
-					succ->hv = hv = h(temp);
-					succ->gv = gv = (current->gv) + 1;
-					succ->fv = hv + gv;
-					open.push_heap(succ);
+					five_succ = new nodeFive(temp, five_current);
+					five_succ->hv = hv = h(temp);
+					five_succ->gv = gv = (five_current->gv) + 1;
+					five_succ->fv = hv + gv;
+					open.push_heap(five_succ);
 					gencount++;
 				}
 			}
-			if (jumpLeft(current->m, temp))
+			if (jumpLeft(five_current->m, temp))
 			{
 				string s1;
 				getstring(temp, s1);
 				if (close.find(s1) == close.end())
 				{
 					close.insert(s1);
-					succ = new nodeFive(temp, current);
-					succ->hv = hv = h(temp);
-					succ->gv = gv = (current->gv) + 1;
-					succ->fv = hv + gv;
-					open.push_heap(succ);
+					five_succ = new nodeFive(temp, five_current);
+					five_succ->hv = hv = h(temp);
+					five_succ->gv = gv = (five_current->gv) + 1;
+					five_succ->fv = hv + gv;
+					open.push_heap(five_succ);
 					gencount++;
 				}
 			}
-			if (jumpDown(current->m, temp))
+			if (jumpDown(five_current->m, temp))
 			{
 				string s1;
 				getstring(temp, s1);
 				if (close.find(s1) == close.end())
 				{
 					close.insert(s1);
-					succ = new nodeFive(temp, current);
-					succ->hv = hv = h(temp);
-					succ->gv = gv = (current->gv) + 1;
-					succ->fv = hv + gv;
-					open.push_heap(succ);
+					five_succ = new nodeFive(temp, five_current);
+					five_succ->hv = hv = h(temp);
+					five_succ->gv = gv = (five_current->gv) + 1;
+					five_succ->fv = hv + gv;
+					open.push_heap(five_succ);
 					gencount++;
 				}
 			}
 		}
 	}
 	cout << gencount << " nodes visted.\n";
-	exit();
-	return;
 }
 
 void five::fiveMain()
@@ -536,19 +534,6 @@ void five::fiveMain()
 		}
 	}
 	best(GAME_BOARD);
-	return;
-}
-
-void five::exit()
-{
-	return;
-}
-
-five::five()
-{
 }
 
 
-five::~five()
-{
-}

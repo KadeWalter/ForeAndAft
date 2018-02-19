@@ -30,22 +30,22 @@
     <ClInclude Include="fiveHeap.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="sevenHeap.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="nineHeap.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="eleHeap.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="seven.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sevenHeap.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="nine.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="eleven.h">
+    <ClInclude Include="nineHeap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="el.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="elevenHeap.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -63,9 +63,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="nine.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="eleven.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -1,4 +1,3 @@
-#pragma once
 #include "seven.h"
 template<class T, int max_size>
 class heap

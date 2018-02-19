@@ -6,7 +6,7 @@ using namespace std;
 const int sizeFive = 5;
 const int sizeSeven = 7;
 const int sizeNine = 9;
-const int SizeEle = 11;
+const int sizeEle = 11;
 
 struct nodeFive
 {
@@ -56,13 +56,13 @@ struct nodeNine
 	}
 };
 
-struct nodeEle
+struct nodeEleven
 {
 	string m[11][11];
 	float hv, gv, fv; // values of h, g, f functions
-	nodeEle *parent;
-	nodeEle *next;
-	nodeEle(string sm[][11], nodeEle* p = 0, nodeEle* n = 0)
+	nodeEleven *parent;
+	nodeEleven *next;
+	nodeEleven(string sm[][11], nodeEleven* p = 0, nodeEleven* n = 0)
 	{
 		for (int r = 0; r<11; r++)
 			for (int c = 0; c<11; c++)

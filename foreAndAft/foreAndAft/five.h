@@ -11,8 +11,6 @@
 #include <stdlib.h>
 #include <set>
 #include <sstream>
-#include <vector>
-#include <queue>
 
 using namespace std;
 
@@ -39,8 +37,5 @@ public:
 	float h(string m[][sizeFive]);
 	void best(string sm[][sizeFive]);
 	void fiveMain();
-	void exit();
-	five();
-	~five();
 };
 
