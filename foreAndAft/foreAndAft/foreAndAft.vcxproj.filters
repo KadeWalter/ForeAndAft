@@ -56,13 +56,16 @@
     <ClCompile Include="foreAndAft.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="five.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="seven.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="nine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="fiveGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="el.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

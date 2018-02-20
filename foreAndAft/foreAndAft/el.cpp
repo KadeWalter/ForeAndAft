@@ -284,15 +284,13 @@ float el::h(string m[][sizeEle])
 
 void el::best(string sm[][sizeEle])
 {
-
-	nodeEleven *start, *el_current, *el_succ;
 	nodeheap open;
 	set<string> close;
 	string s;
 
-	start = new nodeEleven(sm);
-	start->gv = 0; // cost so far is 0
-	open.push_heap(start);
+	el_start = new nodeEleven(sm);
+	el_start->gv = 0; // cost so far is 0
+	open.push_heap(el_start);
 
 	getstring(sm, s);
 	close.insert(s);
@@ -536,4 +534,13 @@ void el::elMain()
 	best(GAME_BOARD);
 }
 
+el::el()
+{
 
+}
+el::~el()
+{
+	delete el_start;
+	delete el_current;
+	delete el_succ;
+}

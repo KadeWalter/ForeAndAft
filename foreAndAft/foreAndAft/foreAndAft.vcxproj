@@ -160,7 +160,8 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="five.cpp" />
+    <ClCompile Include="el.cpp" />
+    <ClCompile Include="fiveGame.cpp" />
     <ClCompile Include="foreAndAft.cpp" />
     <ClCompile Include="nine.cpp" />
     <ClCompile Include="seven.cpp" />

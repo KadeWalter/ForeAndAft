@@ -18,8 +18,10 @@ using namespace std;
 
 class nine
 {
-public:
+private:
+	nodeNine * nine_start, *nine_current, *nine_succ;
 
+public:
 	int le(nodeNine *n1, nodeNine *n2);
 	void getstring(string m[][sizeNine], string &s1);
 	void print1puzzle(ostream &out, string m[][sizeNine]);

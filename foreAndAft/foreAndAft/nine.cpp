@@ -284,15 +284,13 @@ float nine::h(string m[][sizeNine])
 
 void nine::best(string sm[][sizeNine])
 {
-
-	nodeNine *start, *current, *succ;
 	nodeheap open;
 	set<string> close;
 	string s;
 
-	start = new nodeNine(sm);
-	start->gv = 0; // cost so far is 0
-	open.push_heap(start);
+	nine_start = new nodeNine(sm);
+	nine_start->gv = 0; // cost so far is 0
+	open.push_heap(nine_start);
 
 	getstring(sm, s);
 	close.insert(s);
@@ -304,137 +302,137 @@ void nine::best(string sm[][sizeNine])
 
 	while (!open.heap_empty() && !success)
 	{
-		open.pop_heap(current);
-		getstring(current->m, s);
+		open.pop_heap(nine_current);
+		getstring(nine_current->m, s);
 		if (s == GOAL_NINE)
 		{
-			printsolution(current);
+			printsolution(nine_current);
 			success = 1;
 		}
-		else // s is not goalFive
+		else // s is not goalEleven
 		{
-			if (current->parent != NULL)
-				getstring(current->parent->m, s);
+			if (nine_current->parent != NULL)
+				getstring(nine_current->parent->m, s);
 			else
 				s = "";
 			float fv, gv, hv;
-			if (up(current->m, temp))
+			if (up(nine_current->m, temp))
 			{
 				string s1;
 				getstring(temp, s1);
 				if (close.find(s1) == close.end())
 				{
 					close.insert(s1);
-					succ = new nodeNine(temp, current);
-					succ->hv = h(temp);
-					succ->gv = (current->gv) + 1;
-					succ->fv = succ->hv + succ->gv;
-					open.push_heap(succ);
+					nine_succ = new nodeNine(temp, nine_current);
+					nine_succ->hv = h(temp);
+					nine_succ->gv = (nine_current->gv) + 1;
+					nine_succ->fv = nine_succ->hv + nine_succ->gv;
+					open.push_heap(nine_succ);
 					gencount++;
 				}
 			}
-			if (right(current->m, temp))
+			if (right(nine_current->m, temp))
 			{
 				string s1;
 				getstring(temp, s1);
 				if (close.find(s1) == close.end())
 				{
 					close.insert(s1);
-					succ = new nodeNine(temp, current);
-					succ->hv = hv = h(temp);
-					succ->gv = gv = (current->gv) + 1;
-					succ->fv = hv + gv;
-					open.push_heap(succ);
+					nine_succ = new nodeNine(temp, nine_current);
+					nine_succ->hv = hv = h(temp);
+					nine_succ->gv = gv = (nine_current->gv) + 1;
+					nine_succ->fv = hv + gv;
+					open.push_heap(nine_succ);
 					gencount++;
 				}
 			}
-			if (left(current->m, temp))
+			if (left(nine_current->m, temp))
 			{
 				string s1;
 				getstring(temp, s1);
 				if (close.find(s1) == close.end())
 				{
 					close.insert(s1);
-					succ = new nodeNine(temp, current);
-					succ->hv = hv = h(temp);
-					succ->gv = gv = (current->gv) + 1;
-					succ->fv = hv + gv;
-					open.push_heap(succ);
+					nine_succ = new nodeNine(temp, nine_current);
+					nine_succ->hv = hv = h(temp);
+					nine_succ->gv = gv = (nine_current->gv) + 1;
+					nine_succ->fv = hv + gv;
+					open.push_heap(nine_succ);
 					gencount++;
 				}
 			}
-			if (down(current->m, temp))
+			if (down(nine_current->m, temp))
 			{
 				string s1;
 				getstring(temp, s1);
 				if (close.find(s1) == close.end())
 				{
 					close.insert(s1);
-					succ = new nodeNine(temp, current);
-					succ->hv = hv = h(temp);
-					succ->gv = gv = (current->gv) + 1;
-					succ->fv = hv + gv;
-					open.push_heap(succ);
+					nine_succ = new nodeNine(temp, nine_current);
+					nine_succ->hv = hv = h(temp);
+					nine_succ->gv = gv = (nine_current->gv) + 1;
+					nine_succ->fv = hv + gv;
+					open.push_heap(nine_succ);
 					gencount++;
 				}
 			}
-			if (jumpUp(current->m, temp))
+			if (jumpUp(nine_current->m, temp))
 			{
 				string s1;
 				getstring(temp, s1);
 				if (close.find(s1) == close.end())
 				{
 					close.insert(s1);
-					succ = new nodeNine(temp, current);
-					succ->hv = h(temp);
-					succ->gv = (current->gv) + 1;
-					succ->fv = succ->hv + succ->gv;
-					open.push_heap(succ);
+					nine_succ = new nodeNine(temp, nine_current);
+					nine_succ->hv = h(temp);
+					nine_succ->gv = (nine_current->gv) + 1;
+					nine_succ->fv = nine_succ->hv + nine_succ->gv;
+					open.push_heap(nine_succ);
 					gencount++;
 				}
 			}
-			if (jumpRight(current->m, temp))
+			if (jumpRight(nine_current->m, temp))
 			{
 				string s1;
 				getstring(temp, s1);
 				if (close.find(s1) == close.end())
 				{
 					close.insert(s1);
-					succ = new nodeNine(temp, current);
-					succ->hv = hv = h(temp);
-					succ->gv = gv = (current->gv) + 1;
-					succ->fv = hv + gv;
-					open.push_heap(succ);
+					nine_succ = new nodeNine(temp, nine_current);
+					nine_succ->hv = hv = h(temp);
+					nine_succ->gv = gv = (nine_current->gv) + 1;
+					nine_succ->fv = hv + gv;
+					open.push_heap(nine_succ);
 					gencount++;
 				}
 			}
-			if (jumpLeft(current->m, temp))
+			if (jumpLeft(nine_current->m, temp))
 			{
 				string s1;
 				getstring(temp, s1);
 				if (close.find(s1) == close.end())
 				{
 					close.insert(s1);
-					succ = new nodeNine(temp, current);
-					succ->hv = hv = h(temp);
-					succ->gv = gv = (current->gv) + 1;
-					succ->fv = hv + gv;
-					open.push_heap(succ);
+					nine_succ = new nodeNine(temp, nine_current);
+					nine_succ->hv = hv = h(temp);
+					nine_succ->gv = gv = (nine_current->gv) + 1;
+					nine_succ->fv = hv + gv;
+					open.push_heap(nine_succ);
 					gencount++;
 				}
 			}
-			if (jumpDown(current->m, temp))
+			if (jumpDown(nine_current->m, temp))
 			{
 				string s1;
 				getstring(temp, s1);
 				if (close.find(s1) == close.end())
 				{
 					close.insert(s1);
-					succ = new nodeNine(temp, current);
-					succ->hv = hv = h(temp);
-					succ->gv = gv = (current->gv) + 1;
-					succ->fv = hv + gv;
-					open.push_heap(succ);
+					nine_succ = new nodeNine(temp, nine_current);
+					nine_succ->hv = hv = h(temp);
+					nine_succ->gv = gv = (nine_current->gv) + 1;
+					nine_succ->fv = hv + gv;
+					open.push_heap(nine_succ);
 					gencount++;
 				}
 			}
@@ -492,7 +490,7 @@ void nine::nineMain()
 			}
 		}
 	}
-	//creating the goalFive matrix
+	//creating the goalEleven matrix
 	for (int i = 0; i < size; i++)
 	{
 		if (i < halfSize)
@@ -544,4 +542,7 @@ nine::nine()
 
 nine::~nine()
 {
+	delete nine_start;
+	delete nine_current;
+	delete nine_succ;
 }

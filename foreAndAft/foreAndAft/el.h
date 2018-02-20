@@ -16,8 +16,10 @@ using namespace std;
 
 class el
 {
-public:
+private:
+	nodeEleven * el_start, *el_current, *el_succ;
 
+public:
 	int le(nodeEleven *n1, nodeEleven *n2);
 	void getstring(string m[][sizeEle], string &s1);
 	void print1puzzle(ostream &out, string m[][sizeEle]);
@@ -37,5 +39,7 @@ public:
 	float h(string m[][sizeEle]);
 	void best(string sm[][sizeEle]);
 	void elMain();
+	el();
+	~el();
 };
 

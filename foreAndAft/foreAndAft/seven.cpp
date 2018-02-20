@@ -16,7 +16,7 @@
 
 using namespace std;
 
-//possible goalFive solutions
+//possible goalEleven solutions
 const string GOAL_SEVEN = "BBBB###BBBB###BBBB###BBB0RRR###RRRR###RRRR###RRRR";
 
 int SEVEN_SIZE;
@@ -284,15 +284,13 @@ float seven::h(string m[][sizeSeven])
 
 void seven::best(string sm[][sizeSeven])
 {
-
-	nodeSeven *start, *current, *succ;
 	nodeheap open;
 	set<string> close;
 	string s;
 
-	start = new nodeSeven(sm);
-	start->gv = 0; // cost so far is 0
-	open.push_heap(start);
+	seven_start = new nodeSeven(sm);
+	seven_start->gv = 0; // cost so far is 0
+	open.push_heap(seven_start);
 
 	getstring(sm, s);
 	close.insert(s);
@@ -304,137 +302,137 @@ void seven::best(string sm[][sizeSeven])
 
 	while (!open.heap_empty() && !success)
 	{
-		open.pop_heap(current);
-		getstring(current->m, s);
+		open.pop_heap(seven_current);
+		getstring(seven_current->m, s);
 		if (s == GOAL_SEVEN)
 		{
-			printsolution(current);
+			printsolution(seven_current);
 			success = 1;
 		}
-		else // s is not goalFive
+		else // s is not goalEleven
 		{
-			if (current->parent != NULL)
-				getstring(current->parent->m, s);
+			if (seven_current->parent != NULL)
+				getstring(seven_current->parent->m, s);
 			else
 				s = "";
 			float fv, gv, hv;
-			if (up(current->m, temp))
+			if (up(seven_current->m, temp))
 			{
 				string s1;
 				getstring(temp, s1);
 				if (close.find(s1) == close.end())
 				{
 					close.insert(s1);
-					succ = new nodeSeven(temp, current);
-					succ->hv = h(temp);
-					succ->gv = (current->gv) + 1;
-					succ->fv = succ->hv + succ->gv;
-					open.push_heap(succ);
+					seven_succ = new nodeSeven(temp, seven_current);
+					seven_succ->hv = h(temp);
+					seven_succ->gv = (seven_current->gv) + 1;
+					seven_succ->fv = seven_succ->hv + seven_succ->gv;
+					open.push_heap(seven_succ);
 					gencount++;
 				}
 			}
-			if (right(current->m, temp))
+			if (right(seven_current->m, temp))
 			{
 				string s1;
 				getstring(temp, s1);
 				if (close.find(s1) == close.end())
 				{
 					close.insert(s1);
-					succ = new nodeSeven(temp, current);
-					succ->hv = hv = h(temp);
-					succ->gv = gv = (current->gv) + 1;
-					succ->fv = hv + gv;
-					open.push_heap(succ);
+					seven_succ = new nodeSeven(temp, seven_current);
+					seven_succ->hv = hv = h(temp);
+					seven_succ->gv = gv = (seven_current->gv) + 1;
+					seven_succ->fv = hv + gv;
+					open.push_heap(seven_succ);
 					gencount++;
 				}
 			}
-			if (left(current->m, temp))
+			if (left(seven_current->m, temp))
 			{
 				string s1;
 				getstring(temp, s1);
 				if (close.find(s1) == close.end())
 				{
 					close.insert(s1);
-					succ = new nodeSeven(temp, current);
-					succ->hv = hv = h(temp);
-					succ->gv = gv = (current->gv) + 1;
-					succ->fv = hv + gv;
-					open.push_heap(succ);
+					seven_succ = new nodeSeven(temp, seven_current);
+					seven_succ->hv = hv = h(temp);
+					seven_succ->gv = gv = (seven_current->gv) + 1;
+					seven_succ->fv = hv + gv;
+					open.push_heap(seven_succ);
 					gencount++;
 				}
 			}
-			if (down(current->m, temp))
+			if (down(seven_current->m, temp))
 			{
 				string s1;
 				getstring(temp, s1);
 				if (close.find(s1) == close.end())
 				{
 					close.insert(s1);
-					succ = new nodeSeven(temp, current);
-					succ->hv = hv = h(temp);
-					succ->gv = gv = (current->gv) + 1;
-					succ->fv = hv + gv;
-					open.push_heap(succ);
+					seven_succ = new nodeSeven(temp, seven_current);
+					seven_succ->hv = hv = h(temp);
+					seven_succ->gv = gv = (seven_current->gv) + 1;
+					seven_succ->fv = hv + gv;
+					open.push_heap(seven_succ);
 					gencount++;
 				}
 			}
-			if (jumpUp(current->m, temp))
+			if (jumpUp(seven_current->m, temp))
 			{
 				string s1;
 				getstring(temp, s1);
 				if (close.find(s1) == close.end())
 				{
 					close.insert(s1);
-					succ = new nodeSeven(temp, current);
-					succ->hv = h(temp);
-					succ->gv = (current->gv) + 1;
-					succ->fv = succ->hv + succ->gv;
-					open.push_heap(succ);
+					seven_succ = new nodeSeven(temp, seven_current);
+					seven_succ->hv = h(temp);
+					seven_succ->gv = (seven_current->gv) + 1;
+					seven_succ->fv = seven_succ->hv + seven_succ->gv;
+					open.push_heap(seven_succ);
 					gencount++;
 				}
 			}
-			if (jumpRight(current->m, temp))
+			if (jumpRight(seven_current->m, temp))
 			{
 				string s1;
 				getstring(temp, s1);
 				if (close.find(s1) == close.end())
 				{
 					close.insert(s1);
-					succ = new nodeSeven(temp, current);
-					succ->hv = hv = h(temp);
-					succ->gv = gv = (current->gv) + 1;
-					succ->fv = hv + gv;
-					open.push_heap(succ);
+					seven_succ = new nodeSeven(temp, seven_current);
+					seven_succ->hv = hv = h(temp);
+					seven_succ->gv = gv = (seven_current->gv) + 1;
+					seven_succ->fv = hv + gv;
+					open.push_heap(seven_succ);
 					gencount++;
 				}
 			}
-			if (jumpLeft(current->m, temp))
+			if (jumpLeft(seven_current->m, temp))
 			{
 				string s1;
 				getstring(temp, s1);
 				if (close.find(s1) == close.end())
 				{
 					close.insert(s1);
-					succ = new nodeSeven(temp, current);
-					succ->hv = hv = h(temp);
-					succ->gv = gv = (current->gv) + 1;
-					succ->fv = hv + gv;
-					open.push_heap(succ);
+					seven_succ = new nodeSeven(temp, seven_current);
+					seven_succ->hv = hv = h(temp);
+					seven_succ->gv = gv = (seven_current->gv) + 1;
+					seven_succ->fv = hv + gv;
+					open.push_heap(seven_succ);
 					gencount++;
 				}
 			}
-			if (jumpDown(current->m, temp))
+			if (jumpDown(seven_current->m, temp))
 			{
 				string s1;
 				getstring(temp, s1);
 				if (close.find(s1) == close.end())
 				{
 					close.insert(s1);
-					succ = new nodeSeven(temp, current);
-					succ->hv = hv = h(temp);
-					succ->gv = gv = (current->gv) + 1;
-					succ->fv = hv + gv;
-					open.push_heap(succ);
+					seven_succ = new nodeSeven(temp, seven_current);
+					seven_succ->hv = hv = h(temp);
+					seven_succ->gv = gv = (seven_current->gv) + 1;
+					seven_succ->fv = hv + gv;
+					open.push_heap(seven_succ);
 					gencount++;
 				}
 			}
@@ -492,7 +490,7 @@ void seven::sevenMain()
 			}
 		}
 	}
-	//creating the goalFive matrix
+	//creating the goalEleven matrix
 	for (int i = 0; i < size; i++)
 	{
 		if (i < halfSize)
@@ -544,4 +542,7 @@ seven::seven()
 
 seven::~seven()
 {
+	delete seven_start;
+	delete seven_current;
+	delete seven_succ;
 }

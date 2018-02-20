@@ -18,6 +18,8 @@ using namespace std;
 
 class seven
 {
+private:
+	nodeSeven * seven_start, *seven_current, *seven_succ;
 public:
 
 	int le(nodeSeven *n1, nodeSeven *n2);
