@@ -1,0 +1,7347 @@
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRR BBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+State 0
+
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRR RBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+State 1
+
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRBR BBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+State 2
+
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRB RBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+State 3
+
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRR #####
+RRRRRR#####
+RRRRBRRBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+State 4
+
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRR R#####
+RRRRRR#####
+RRRRBRRBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+State 5
+
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRR RRBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+State 6
+
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RR RRRRBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+State 7
+
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RR RBR#####
+RRRRRR#####
+RRRRRRRBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+State 8
+
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRBR R#####
+RRRRRR#####
+RRRRRRRBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+State 9
+
+RRRRRR#####
+RRRR R#####
+RRRRRR#####
+RRBRRR#####
+RRRRRR#####
+RRRRRRRBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+State 10
+
+RRRRRR#####
+RR RRR#####
+RRRRRR#####
+RRBRRR#####
+RRRRRR#####
+RRRRRRRBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+State 11
+
+RRRRRR#####
+RRBRRR#####
+RRRRRR#####
+RR RRR#####
+RRRRRR#####
+RRRRRRRBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+State 12
+
+RRRRRR#####
+RRBRRR#####
+RRRRRR#####
+ RRRRR#####
+RRRRRR#####
+RRRRRRRBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+State 13
+
+RRRRRR#####
+ RBRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRRRBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+State 14
+
+RRRRRR#####
+BR RRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRRRBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+State 15
+
+RR RRR#####
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRRRBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+State 16
+
+ RRRRR#####
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRRRBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+State 17
+
+BRRRRR#####
+ RRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRRRBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+State 18
+
+BRRRRR#####
+R RRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRRRBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+State 19
+
+BRRRRR#####
+RRRRRR#####
+R RRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRRRBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+State 20
+
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+R RRRR#####
+RRRRRRRBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+State 21
+
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRR RR#####
+RRRRRRRBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+State 22
+
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRR #####
+RRRRRRRBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+State 23
+
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRRBBBB
+##### BBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+State 24
+
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRRBBBB
+#####BB BBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+State 25
+
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRRBBBB
+#####BBBBBB
+#####BB BBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+State 26
+
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRRBBBB
+#####BBBBBB
+#####B BBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+State 27
+
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRR BBBB
+#####BBBBBB
+#####BRBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+State 28
+
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBB BB
+#####BBBBBB
+#####BRBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+State 29
+
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBBBBB
+#####BBBBBB
+#####BRB BB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+State 30
+
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBBBBB
+#####BBBBBB
+#####B BRBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+State 31
+
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBBBBB
+#####BBBBBB
+#####BBBRBB
+#####BBBBBB
+#####B BBBB
+#####BBBBBB
+State 32
+
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBBBBB
+#####BBBBBB
+#####BBBRBB
+#####BBBBBB
+#####BBB BB
+#####BBBBBB
+State 33
+
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBBBBB
+#####BBBBBB
+#####BBB BB
+#####BBBBBB
+#####BBBRBB
+#####BBBBBB
+State 34
+
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBBBBB
+#####BBBBBB
+#####BBBBB 
+#####BBBBBB
+#####BBBRBB
+#####BBBBBB
+State 35
+
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBRB 
+#####BBBBBB
+State 36
+
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBB BR
+#####BBBBBB
+State 37
+
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBB R
+#####BBBBBB
+State 38
+
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBB B
+State 39
+
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBB 
+State 40
+
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBB 
+#####BBBBBR
+State 41
+
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBB B
+#####BBBBBR
+State 42
+
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBBBBB
+#####BBBBBB
+#####BBBB B
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+State 43
+
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBBBBB
+#####BBBBBB
+#####BB BBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+State 44
+
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRB BBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+State 45
+
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRR BRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+State 46
+
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRR #####
+RRRRRB#####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+State 47
+
+BRRRRR#####
+RRRRRR#####
+RRRRR #####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+State 48
+
+BRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRR#####
+RRRRR #####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+State 49
+
+BRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRR#####
+RRR RR#####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+State 50
+
+BRRRRR#####
+RRRRRR#####
+RRR RB#####
+RRRRRR#####
+RRRRRR#####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+State 51
+
+BRRRRR#####
+RRRRRR#####
+RRRBR #####
+RRRRRR#####
+RRRRRR#####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+State 52
+
+BRRRR #####
+RRRRRR#####
+RRRBRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+State 53
+
+BRR RR#####
+RRRRRR#####
+RRRBRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+State 54
+
+BRRBRR#####
+RRRRRR#####
+RRR RR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+State 55
+
+BRRBRR#####
+RRRRRR#####
+R RRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+State 56
+
+B RBRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+State 57
+
+BBR RR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+State 58
+
+BBRRRR#####
+RRRRRR#####
+RRR RR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+State 59
+
+BBRRRR#####
+RRRRRR#####
+RRRRR #####
+RRRRRR#####
+RRRRRR#####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+State 60
+
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRR #####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+State 61
+
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBRBBB
+##### BBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+State 62
+
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBRBBB
+#####BB BBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+State 63
+
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRB BBB
+#####BBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+State 64
+
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBBB B
+#####BBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+State 65
+
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBBBBB
+#####BBRB B
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+State 66
+
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBBBBB
+#####BB BRB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+State 67
+
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBBBBB
+#####BBBBRB
+#####BBBBBB
+#####BB BBB
+#####BBBBBB
+#####BBBBBR
+State 68
+
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBBBBB
+#####BBBBRB
+#####BBBBBB
+#####BBBB B
+#####BBBBBB
+#####BBBBBR
+State 69
+
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBBBBB
+#####BBBB B
+#####BBBBBB
+#####BBBBRB
+#####BBBBBB
+#####BBBBBR
+State 70
+
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBBBBB
+#####BBBBB 
+#####BBBBBB
+#####BBBBRB
+#####BBBBBB
+#####BBBBBR
+State 71
+
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBR 
+#####BBBBBB
+#####BBBBBR
+State 72
+
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBB R
+#####BBBBBB
+#####BBBBBR
+State 73
+
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBB B
+#####BBBBBR
+State 74
+
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBB 
+#####BBBBBR
+State 75
+
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBB 
+#####BBBBBR
+#####BBBBBR
+State 76
+
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBBBBB
+#####BBBBBB
+#####BBBBB 
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 77
+
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBBBBB
+#####BBBBBB
+#####BBBB B
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 78
+
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRBBBBB
+#####BBBBBB
+#####BB BBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 79
+
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRRRB BBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 80
+
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRR BRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 81
+
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRR #####
+RRRRRB#####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 82
+
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRR #####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 83
+
+BBRRRR#####
+RRRRRR#####
+RRRRR #####
+RRRRRB#####
+RRRRRR#####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 84
+
+BBRRRR#####
+RRRRRR#####
+RRRRRB#####
+RRRRR #####
+RRRRRR#####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 85
+
+BBRRRR#####
+RRRRR #####
+RRRRRB#####
+RRRRRR#####
+RRRRRR#####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 86
+
+BBRRR #####
+RRRRRR#####
+RRRRRB#####
+RRRRRR#####
+RRRRRR#####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 87
+
+BBRRRB#####
+RRRRRR#####
+RRRRR #####
+RRRRRR#####
+RRRRRR#####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 88
+
+BBRRRB#####
+RRRRRR#####
+RRR RR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 89
+
+BBR RB#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 90
+
+BBRBR #####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 91
+
+BBRB R#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 92
+
+BB BRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 93
+
+BBB RR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 94
+
+BBBRRR#####
+RRR RR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 95
+
+BBBRRR#####
+R RRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 96
+
+BBBRRR#####
+ RRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 97
+
+ BBRRR#####
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 98
+
+BB RRR#####
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 99
+
+BBRRRR#####
+BR RRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 100
+
+BBRRRR#####
+BRRRRR#####
+RRRRRR#####
+RR RRR#####
+RRRRRR#####
+RRRRRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 101
+
+BBRRRR#####
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RR RRRBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 102
+
+BBRRRR#####
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRR RBRBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 103
+
+BBRRRR#####
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRBR RBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 104
+
+BBRRRR#####
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRBRBR BB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 105
+
+BBRRRR#####
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRBRBRB B
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 106
+
+BBRRRR#####
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRBRB BRB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 107
+
+BBRRRR#####
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRB BRBRB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 108
+
+BBRRRR#####
+BRRRRR#####
+RRRRRR#####
+RRRRR #####
+RRRRRR#####
+RRRRBRBRBRB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 109
+
+BBRRRR#####
+BRRRRR#####
+RRRRRR#####
+RRRR R#####
+RRRRRR#####
+RRRRBRBRBRB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 110
+
+BBRRRR#####
+BRRRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRR RBRBRB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 111
+
+BBRRRR#####
+BRRRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBR RBRB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 112
+
+BBRRRR#####
+BRRRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBR RB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 113
+
+BBRRRR#####
+BRRRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBR 
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 114
+
+BBRRRR#####
+BRRRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRB R
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 115
+
+BBRRRR#####
+BRRRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRB BRR
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 116
+
+BBRRRR#####
+BRRRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRB BRBRR
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 117
+
+BBRRRR#####
+BRRRRR#####
+RRRRRR#####
+RRRRB #####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 118
+
+BBRRRR#####
+BRRRR #####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 119
+
+BBRRRR#####
+BRRR R#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 120
+
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRR R#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 121
+
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RR RRR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 122
+
+BBRRRR#####
+BR RBR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 123
+
+BBRRRR#####
+BRBR R#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 124
+
+BBRR R#####
+BRBRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 125
+
+BB RRR#####
+BRBRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 126
+
+BBBRRR#####
+BR RRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 127
+
+BBBRRR#####
+BRRRRR#####
+RRRRRR#####
+RR RRR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 128
+
+BBBRRR#####
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RR RBRBRBRR
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 129
+
+BBBRRR#####
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRBR RBRBRR
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 130
+
+BBBRRR#####
+BRRRRR#####
+RRRRRR#####
+RRRR R#####
+RRRRRR#####
+RRBRRRBRBRR
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 131
+
+BBBRRR#####
+BRRRRR#####
+RRRRRR#####
+RR RRR#####
+RRRRRR#####
+RRBRRRBRBRR
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 132
+
+BBBRRR#####
+BRRRRR#####
+RRRRRR#####
+RRBRRR#####
+RRRRRR#####
+RR RRRBRBRR
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 133
+
+BBBRRR#####
+BRRRRR#####
+RRRRRR#####
+RRBRRR#####
+RRRRRR#####
+ RRRRRBRBRR
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 134
+
+BBBRRR#####
+BRRRRR#####
+RRRRRR#####
+ RBRRR#####
+RRRRRR#####
+RRRRRRBRBRR
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 135
+
+BBBRRR#####
+BRRRRR#####
+RRRRRR#####
+BR RRR#####
+RRRRRR#####
+RRRRRRBRBRR
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 136
+
+BBBRRR#####
+BR RRR#####
+RRRRRR#####
+BRRRRR#####
+RRRRRR#####
+RRRRRRBRBRR
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 137
+
+BBBRRR#####
+B RRRR#####
+RRRRRR#####
+BRRRRR#####
+RRRRRR#####
+RRRRRRBRBRR
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 138
+
+BBBRRR#####
+ BRRRR#####
+RRRRRR#####
+BRRRRR#####
+RRRRRR#####
+RRRRRRBRBRR
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 139
+
+BBBRRR#####
+BBRRRR#####
+RRRRRR#####
+ RRRRR#####
+RRRRRR#####
+RRRRRRBRBRR
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 140
+
+BBBRRR#####
+BBRRRR#####
+RRRRRR#####
+RR RRR#####
+RRRRRR#####
+RRRRRRBRBRR
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 141
+
+BBBRRR#####
+BBRRRR#####
+RRRRRR#####
+RRRR R#####
+RRRRRR#####
+RRRRRRBRBRR
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 142
+
+BBBRRR#####
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRR RBRBRR
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 143
+
+BBBRRR#####
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRBR RBRR
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 144
+
+BBBRRR#####
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRBRBR RR
+#####BBBBBB
+#####BBBBBB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 145
+
+BBBRRR#####
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBB BB
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 146
+
+BBBRRR#####
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBB 
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 147
+
+BBBRRR#####
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRBRBRBR 
+#####BBBBBB
+#####BBBBBR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 148
+
+BBBRRR#####
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRBRBRB R
+#####BBBBBB
+#####BBBBBR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 149
+
+BBBRRR#####
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRBRB BRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 150
+
+BBBRRR#####
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRB BRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 151
+
+BBBRRR#####
+BBRRRR#####
+RRRRRR#####
+RRRRR #####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 152
+
+BBBRRR#####
+BBRRRR#####
+RRRRRR#####
+RRRR R#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 153
+
+BBBRRR#####
+BBRRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRR RBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 154
+
+BBBRRR#####
+BBRRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBR RBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 155
+
+BBBRRR#####
+BBRRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBR RR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 156
+
+BBBRRR#####
+BBRRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBB BR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+State 157
+
+BBBRRR#####
+BBRRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBB
+#####BBB BR
+#####BBBBBR
+State 158
+
+BBBRRR#####
+BBRRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBB
+#####BBBB R
+#####BBBBBR
+State 159
+
+BBBRRR#####
+BBRRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBB
+#####BBBBBR
+#####BBBB R
+State 160
+
+BBBRRR#####
+BBRRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBB
+#####BBBBBR
+#####BBBBR 
+State 161
+
+BBBRRR#####
+BBRRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBB
+#####BBBBB 
+#####BBBBRR
+State 162
+
+BBBRRR#####
+BBRRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBB 
+#####BBBBBB
+#####BBBBBR
+#####BBBBRR
+State 163
+
+BBBRRR#####
+BBRRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBR 
+#####BBBBBB
+#####BBBBBR
+#####BBBBBB
+#####BBBBBR
+#####BBBBRR
+State 164
+
+BBBRRR#####
+BBRRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRB R
+#####BBBBBB
+#####BBBBBR
+#####BBBBBB
+#####BBBBBR
+#####BBBBRR
+State 165
+
+BBBRRR#####
+BBRRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRB BRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBB
+#####BBBBBR
+#####BBBBRR
+State 166
+
+BBBRRR#####
+BBRRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRB BRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBB
+#####BBBBBR
+#####BBBBRR
+State 167
+
+BBBRRR#####
+BBRRRR#####
+RRRRRR#####
+RRRRB #####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBB
+#####BBBBBR
+#####BBBBRR
+State 168
+
+BBBRRR#####
+BBRRR #####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBB
+#####BBBBBR
+#####BBBBRR
+State 169
+
+BBBRRR#####
+BBRR R#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBB
+#####BBBBBR
+#####BBBBRR
+State 170
+
+BBBRRR#####
+BBRRBR#####
+RRRRRR#####
+RRRR R#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBB
+#####BBBBBR
+#####BBBBRR
+State 171
+
+BBBRRR#####
+BBRRBR#####
+RRRRRR#####
+RR RRR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBB
+#####BBBBBR
+#####BBBBRR
+State 172
+
+BBBRRR#####
+BB RBR#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBB
+#####BBBBBR
+#####BBBBRR
+State 173
+
+BBBRRR#####
+BBBR R#####
+RRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBB
+#####BBBBBR
+#####BBBBRR
+State 174
+
+BBBRRR#####
+BBBRRR#####
+RRRRRR#####
+RRRR R#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBB
+#####BBBBBR
+#####BBBBRR
+State 175
+
+BBBRRR#####
+BBBRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRR RBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBB
+#####BBBBBR
+#####BBBBRR
+State 176
+
+BBBRRR#####
+BBBRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBR RBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBB
+#####BBBBBR
+#####BBBBRR
+State 177
+
+BBBRRR#####
+BBBRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBR RR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBB
+#####BBBBBR
+#####BBBBRR
+State 178
+
+BBBRRR#####
+BBBRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBB BR
+#####BBBBBB
+#####BBBBBR
+#####BBBBRR
+State 179
+
+BBBRRR#####
+BBBRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBB
+#####BBB BR
+#####BBBBRR
+State 180
+
+BBBRRR#####
+BBBRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBB
+#####BBBB R
+#####BBBBRR
+State 181
+
+BBBRRR#####
+BBBRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBB B
+#####BBBBBR
+#####BBBBRR
+State 182
+
+BBBRRR#####
+BBBRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBB 
+#####BBBBBR
+#####BBBBRR
+State 183
+
+BBBRRR#####
+BBBRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBB 
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+State 184
+
+BBBRRR#####
+BBBRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBR 
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+State 185
+
+BBBRRR#####
+BBBRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRB R
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+State 186
+
+BBBRRR#####
+BBBRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRB BRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+State 187
+
+BBBRRR#####
+BBBRRR#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRB BRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+State 188
+
+BBBRRR#####
+BBBRRR#####
+RRRRRR#####
+RRRRB #####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+State 189
+
+BBBRRR#####
+BBBRR #####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+State 190
+
+BBBRRR#####
+BBBR R#####
+RRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+State 191
+
+BBBRRR#####
+BBBRBR#####
+RRRRRR#####
+RRRR R#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+State 192
+
+BBBRRR#####
+BBBRBR#####
+RRRRRR#####
+RR RRR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+State 193
+
+BBBRRR#####
+BBBRBR#####
+RRRRRR#####
+ RRRRR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+State 194
+
+BBBRRR#####
+BBBRBR#####
+ RRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+State 195
+
+BBBRRR#####
+ BBRBR#####
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+State 196
+
+BBBRRR#####
+BB RBR#####
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+State 197
+
+BBBRRR#####
+BBBR R#####
+BRRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+State 198
+
+BBBRRR#####
+BBBRRR#####
+BRRRRR#####
+RRRR R#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+State 199
+
+BBBRRR#####
+BBBRRR#####
+BRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRR RBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+State 200
+
+BBBRRR#####
+BBBRRR#####
+BRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBR RBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+State 201
+
+BBBRRR#####
+BBBRRR#####
+BRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBR RR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+State 202
+
+BBBRRR#####
+BBBRRR#####
+BRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBB BR
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+State 203
+
+BBBRRR#####
+BBBRRR#####
+BRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBB BR
+#####BBBBRR
+State 204
+
+BBBRRR#####
+BBBRRR#####
+BRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBB R
+#####BBBBRR
+State 205
+
+BBBRRR#####
+BBBRRR#####
+BRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBR 
+#####BBBBRR
+State 206
+
+BBBRRR#####
+BBBRRR#####
+BRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBB 
+#####BBBBBR
+#####BBBBRR
+#####BBBBRR
+State 207
+
+BBBRRR#####
+BBBRRR#####
+BRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBR 
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBBRR
+State 208
+
+BBBRRR#####
+BBBRRR#####
+BRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRB R
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBBRR
+State 209
+
+BBBRRR#####
+BBBRRR#####
+BRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRB BRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBBRR
+State 210
+
+BBBRRR#####
+BBBRRR#####
+BRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRB BRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBBRR
+State 211
+
+BBBRRR#####
+BBBRRR#####
+BRRRRR#####
+RRRRB #####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBBRR
+State 212
+
+BBBRRR#####
+BBBRR #####
+BRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBBRR
+State 213
+
+BBBRRR#####
+BBBR R#####
+BRRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBBRR
+State 214
+
+BBBRRR#####
+BBBRBR#####
+BRRRRR#####
+RRRR R#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBBRR
+State 215
+
+BBBRRR#####
+BBBRBR#####
+BRRRRR#####
+RR RRR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBBRR
+State 216
+
+BBBRRR#####
+BBBRBR#####
+BR RRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBBRR
+State 217
+
+BBBRRR#####
+BBBRBR#####
+B RRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBBRR
+State 218
+
+BBBRRR#####
+B BRBR#####
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBBRR
+State 219
+
+BBBRRR#####
+BB RBR#####
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBBRR
+State 220
+
+BBBRRR#####
+BBBR R#####
+BBRRRR#####
+RRRRRR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBBRR
+State 221
+
+BBBRRR#####
+BBBRRR#####
+BBRRRR#####
+RRRR R#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBBRR
+State 222
+
+BBBRRR#####
+BBBRRR#####
+BBRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRR RBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBBRR
+State 223
+
+BBBRRR#####
+BBBRRR#####
+BBRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBR RBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBBRR
+State 224
+
+BBBRRR#####
+BBBRRR#####
+BBRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBR RR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBBRR
+State 225
+
+BBBRRR#####
+BBBRRR#####
+BBRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBB BR
+#####BBBBBR
+#####BBBBRR
+#####BBBBRR
+State 226
+
+BBBRRR#####
+BBBRRR#####
+BBRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBB RR
+#####BBBBRR
+State 227
+
+BBBRRR#####
+BBBRRR#####
+BBRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBB RR
+State 228
+
+BBBRRR#####
+BBBRRR#####
+BBRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBR R
+State 229
+
+BBBRRR#####
+BBBRRR#####
+BBRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBB R
+#####BBBRRR
+State 230
+
+BBBRRR#####
+BBBRRR#####
+BBRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBR 
+#####BBBRRR
+State 231
+
+BBBRRR#####
+BBBRRR#####
+BBRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBB 
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 232
+
+BBBRRR#####
+BBBRRR#####
+BBRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBR 
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 233
+
+BBBRRR#####
+BBBRRR#####
+BBRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRB R
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 234
+
+BBBRRR#####
+BBBRRR#####
+BBRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRB BRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 235
+
+BBBRRR#####
+BBBRRR#####
+BBRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRB BRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 236
+
+BBBRRR#####
+BBBRRR#####
+BBRRRR#####
+RRRRB #####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 237
+
+BBBRRR#####
+BBBRR #####
+BBRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 238
+
+BBBRRR#####
+BBBR R#####
+BBRRRR#####
+RRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 239
+
+BBBRRR#####
+BBBRBR#####
+BBRRRR#####
+RRRR R#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 240
+
+BBBRRR#####
+BBBRBR#####
+BBRRRR#####
+RR RRR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 241
+
+BBBRRR#####
+BBBRBR#####
+BBRRRR#####
+ RRRRR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 242
+
+BBBRRR#####
+BBBRBR#####
+ BRRRR#####
+BRRRRR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 243
+
+BBBRRR#####
+BBBRBR#####
+B RRRR#####
+BRRRRR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 244
+
+BBBRRR#####
+B BRBR#####
+BBRRRR#####
+BRRRRR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 245
+
+BBBRRR#####
+BB RBR#####
+BBRRRR#####
+BRRRRR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 246
+
+BBBRRR#####
+BBBR R#####
+BBRRRR#####
+BRRRRR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 247
+
+BBBRRR#####
+BBBRRR#####
+BBRRRR#####
+BRRR R#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 248
+
+BBBRRR#####
+BBBRRR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRR RBRBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 249
+
+BBBRRR#####
+BBBRRR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBR RBRR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 250
+
+BBBRRR#####
+BBBRRR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBR RR
+#####BBBBBB
+#####BBBBBR
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 251
+
+BBBRRR#####
+BBBRRR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBB BR
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 252
+
+BBBRRR#####
+BBBRRR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBB R
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 253
+
+BBBRRR#####
+BBBRRR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBRB R
+#####BBBBBB
+#####BBBBRR
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 254
+
+BBBRRR#####
+BBBRRR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRB BRR
+#####BBBBBB
+#####BBBBRR
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 255
+
+BBBRRR#####
+BBBRRR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRB BRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 256
+
+BBBRRR#####
+BBBRRR#####
+BBRRRR#####
+BRRRB #####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 257
+
+BBBRRR#####
+BBBRR #####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 258
+
+BBBRRR#####
+BBBR R#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 259
+
+BBBRRR#####
+BBBRBR#####
+BBRRRR#####
+BRRR R#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 260
+
+BBBRRR#####
+BBBRBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRR RBRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 261
+
+BBBRRR#####
+BBBRBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBR RBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 262
+
+BBBRRR#####
+BBBRBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBR RR
+#####BBBBBB
+#####BBBBRR
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 263
+
+BBBRRR#####
+BBBRBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBB RR
+#####BBBBBR
+#####BBBBRR
+#####BBBRRR
+State 264
+
+BBBRRR#####
+BBBRBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBB BR
+#####BBBBRR
+#####BBBRRR
+State 265
+
+BBBRRR#####
+BBBRBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBB R
+#####BBBBRR
+#####BBBRRR
+State 266
+
+BBBRRR#####
+BBBRBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBB R
+#####BBBBRR
+#####BBBBRR
+#####BBBRRR
+State 267
+
+BBBRRR#####
+BBBRBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBRB R
+#####BBBBBB
+#####BBBBRR
+#####BBBBRR
+#####BBBBRR
+#####BBBRRR
+State 268
+
+BBBRRR#####
+BBBRBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRB BRR
+#####BBBBBB
+#####BBBBRR
+#####BBBBRR
+#####BBBBRR
+#####BBBRRR
+State 269
+
+BBBRRR#####
+BBBRBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRB BRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBBRR
+#####BBBBRR
+#####BBBRRR
+State 270
+
+BBBRRR#####
+BBBRBR#####
+BBRRRR#####
+BRRRB #####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBBRR
+#####BBBBRR
+#####BBBRRR
+State 271
+
+BBBRRR#####
+BBBRB #####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBBRR
+#####BBBBRR
+#####BBBRRR
+State 272
+
+BBBRRR#####
+BBB BR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBBRR
+#####BBBBRR
+#####BBBRRR
+State 273
+
+BBBRRR#####
+BBBB R#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBBRR
+#####BBBBRR
+#####BBBRRR
+State 274
+
+BBBRRR#####
+BBBBBR#####
+BBRRRR#####
+BRRR R#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBBRR
+#####BBBBRR
+#####BBBRRR
+State 275
+
+BBBRRR#####
+BBBBBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRR RBRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBBRR
+#####BBBBRR
+#####BBBRRR
+State 276
+
+BBBRRR#####
+BBBBBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBR RBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBBRR
+#####BBBBRR
+#####BBBRRR
+State 277
+
+BBBRRR#####
+BBBBBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBR RR
+#####BBBBBB
+#####BBBBRR
+#####BBBBRR
+#####BBBBRR
+#####BBBRRR
+State 278
+
+BBBRRR#####
+BBBBBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBB RR
+#####BBBBRR
+#####BBBBRR
+#####BBBRRR
+State 279
+
+BBBRRR#####
+BBBBBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBBRR
+#####BBB RR
+#####BBBRRR
+State 280
+
+BBBRRR#####
+BBBBBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBBRR
+#####BBBR R
+#####BBBRRR
+State 281
+
+BBBRRR#####
+BBBBBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBB R
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+State 282
+
+BBBRRR#####
+BBBBBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBRB R
+#####BBBBBB
+#####BBBBRR
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+State 283
+
+BBBRRR#####
+BBBBBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRB BRR
+#####BBBBBB
+#####BBBBRR
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+State 284
+
+BBBRRR#####
+BBBBBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRB BRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+State 285
+
+BBBRRR#####
+BBBBBR#####
+BBRRRR#####
+BRRRB #####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+State 286
+
+BBBRRR#####
+BBBBB #####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+State 287
+
+BBBRR #####
+BBBBBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+State 288
+
+BBB RR#####
+BBBBBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+State 289
+
+BBBBRR#####
+BBB BR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+State 290
+
+BBBBRR#####
+BBBB R#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+State 291
+
+BBBBRR#####
+BBBBBR#####
+BBRRRR#####
+BRRR R#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+State 292
+
+BBBBRR#####
+BBBBBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRR RBRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+State 293
+
+BBBBRR#####
+BBBBBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBR RBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+State 294
+
+BBBBRR#####
+BBBBBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBR RR
+#####BBBBBB
+#####BBBBRR
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+State 295
+
+BBBBRR#####
+BBBBBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBB RR
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+State 296
+
+BBBBRR#####
+BBBBBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBB RR
+#####BBBRRR
+#####BBBRRR
+State 297
+
+BBBBRR#####
+BBBBBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBR R
+#####BBBRRR
+#####BBBRRR
+State 298
+
+BBBBRR#####
+BBBBBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBB R
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 299
+
+BBBBRR#####
+BBBBBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBRB R
+#####BBBBBB
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 300
+
+BBBBRR#####
+BBBBBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRB BRR
+#####BBBBBB
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 301
+
+BBBBRR#####
+BBBBBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRB BRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 302
+
+BBBBRR#####
+BBBBBR#####
+BBRRRR#####
+BRRRB #####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 303
+
+BBBBRR#####
+BBBBB #####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 304
+
+BBBBR #####
+BBBBBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 305
+
+BBBB R#####
+BBBBBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 306
+
+BBBBBR#####
+BBBB R#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 307
+
+BBBBBR#####
+BBBBBR#####
+BBRRRR#####
+BRRR R#####
+RRRRRR#####
+RRRRBRBRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 308
+
+BBBBBR#####
+BBBBBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRR RBRBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 309
+
+BBBBBR#####
+BBBBBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBR RBRR
+#####BBBBBB
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 310
+
+BBBBBR#####
+BBBBBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRBR RR
+#####BBBBBB
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 311
+
+BBBBBR#####
+BBBBBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRBRB RRR
+#####BBBBBB
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 312
+
+BBBBBR#####
+BBBBBR#####
+BBRRRR#####
+BRRRBR#####
+RRRRRR#####
+RRRRB BRRRR
+#####BBBBBB
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 313
+
+BBBBBR#####
+BBBBBR#####
+BBRRRR#####
+BRRRB #####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 314
+
+BBBBBR#####
+BBBBBR#####
+BBRRRR#####
+BRR BR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 315
+
+BBBBBR#####
+BBBBBR#####
+BBRRRR#####
+BRRB R#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 316
+
+BBBBBR#####
+BBBBBR#####
+BBRRRR#####
+BR BRR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 317
+
+BBBBBR#####
+BBBBBR#####
+BBRRRR#####
+BRB RR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 318
+
+BBBBBR#####
+BBBBBR#####
+BBRRRR#####
+B BRRR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 319
+
+BBBBBR#####
+BBBBBR#####
+BBRRRR#####
+BB RRR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 320
+
+BBBBBR#####
+BBBBBR#####
+BB RRR#####
+BBRRRR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 321
+
+BBBBBR#####
+BB BBR#####
+BBBRRR#####
+BBRRRR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 322
+
+BBBBBR#####
+BBBB R#####
+BBBRRR#####
+BBRRRR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 323
+
+BBBBBR#####
+BBBBRR#####
+BBBRRR#####
+BBRR R#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 324
+
+BBBBBR#####
+BBBBRR#####
+BBBRRR#####
+BBRRBR#####
+RRRRRR#####
+RRRR RBRRRR
+#####BBBBBB
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 325
+
+BBBBBR#####
+BBBBRR#####
+BBBRRR#####
+BBRRBR#####
+RRRRRR#####
+RRRRBR RRRR
+#####BBBBBB
+#####BBBBRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 326
+
+BBBBBR#####
+BBBBRR#####
+BBBRRR#####
+BBRRBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####B BBRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 327
+
+BBBBBR#####
+BBBBRR#####
+BBBRRR#####
+BBRRBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBB RR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 328
+
+BBBBBR#####
+BBBBRR#####
+BBBRRR#####
+BBRRBR#####
+RRRRRR#####
+RRRRBRBR RR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 329
+
+BBBBBR#####
+BBBBRR#####
+BBBRRR#####
+BBRRBR#####
+RRRRRR#####
+RRRRBRB RRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 330
+
+BBBBBR#####
+BBBBRR#####
+BBBRRR#####
+BBRRBR#####
+RRRRRR#####
+RRRRB BRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 331
+
+BBBBBR#####
+BBBBRR#####
+BBBRRR#####
+BBRRB #####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 332
+
+BBBBBR#####
+BBBBR #####
+BBBRRR#####
+BBRRBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 333
+
+BBBBBR#####
+BBBB R#####
+BBBRRR#####
+BBRRBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 334
+
+BBBBBR#####
+BBBBBR#####
+BBBRRR#####
+BBRR R#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 335
+
+BBBBBR#####
+BBBBBR#####
+BBBRRR#####
+BBRRBR#####
+RRRRRR#####
+RRRR RBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 336
+
+BBBBBR#####
+BBBBBR#####
+BBBRRR#####
+BBRRBR#####
+RRRRRR#####
+RRRRBR RRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 337
+
+BBBBBR#####
+BBBBBR#####
+BBBRRR#####
+BBRRBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####B BRRR
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+State 338
+
+BBBBBR#####
+BBBBBR#####
+BBBRRR#####
+BBRRBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####B BRRR
+#####BBBRRR
+State 339
+
+BBBBBR#####
+BBBBBR#####
+BBBRRR#####
+BBRRBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BB RRR
+#####BBBRRR
+State 340
+
+BBBBBR#####
+BBBBBR#####
+BBBRRR#####
+BBRRBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+#####BB RRR
+State 341
+
+BBBBBR#####
+BBBBBR#####
+BBBRRR#####
+BBRRBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+#####BBR RR
+State 342
+
+BBBBBR#####
+BBBBBR#####
+BBBRRR#####
+BBRRBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBB RR
+#####BBBRRR
+#####BBRRRR
+State 343
+
+BBBBBR#####
+BBBBBR#####
+BBBRRR#####
+BBRRBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBB RR
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+State 344
+
+BBBBBR#####
+BBBBBR#####
+BBBRRR#####
+BBRRBR#####
+RRRRRR#####
+RRRRBRBR RR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+State 345
+
+BBBBBR#####
+BBBBBR#####
+BBBRRR#####
+BBRRBR#####
+RRRRRR#####
+RRRRBRB RRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+State 346
+
+BBBBBR#####
+BBBBBR#####
+BBBRRR#####
+BBRRBR#####
+RRRRRR#####
+RRRRB BRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+State 347
+
+BBBBBR#####
+BBBBBR#####
+BBBRRR#####
+BBRRB #####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+State 348
+
+BBBBBR#####
+BBBBBR#####
+BBBRRR#####
+BBR BR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+State 349
+
+BBBBBR#####
+BBBBBR#####
+BBBRRR#####
+BBRB R#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+State 350
+
+BBBBBR#####
+BBBBBR#####
+BBBRRR#####
+BBRBBR#####
+RRRRRR#####
+RRRR RBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+State 351
+
+BBBBBR#####
+BBBBBR#####
+BBBRRR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBR RRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+State 352
+
+BBBBBR#####
+BBBBBR#####
+BBBRRR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####B BRRR
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+State 353
+
+BBBBBR#####
+BBBBBR#####
+BBBRRR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####B BRRR
+#####BBRRRR
+State 354
+
+BBBBBR#####
+BBBBBR#####
+BBBRRR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BB RRR
+#####BBRRRR
+State 355
+
+BBBBBR#####
+BBBBBR#####
+BBBRRR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBR RR
+#####BBRRRR
+State 356
+
+BBBBBR#####
+BBBBBR#####
+BBBRRR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBB RR
+#####BBBRRR
+#####BBRRRR
+#####BBRRRR
+State 357
+
+BBBBBR#####
+BBBBBR#####
+BBBRRR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBR RR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+#####BBRRRR
+State 358
+
+BBBBBR#####
+BBBBBR#####
+BBBRRR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRB RRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+#####BBRRRR
+State 359
+
+BBBBBR#####
+BBBBBR#####
+BBBRRR#####
+BBRBBR#####
+RRRRRR#####
+RRRRB BRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+#####BBRRRR
+State 360
+
+BBBBBR#####
+BBBBBR#####
+BBBRRR#####
+BBRBB #####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+#####BBRRRR
+State 361
+
+BBBBBR#####
+BBBBB #####
+BBBRRR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+#####BBRRRR
+State 362
+
+BBBBB #####
+BBBBBR#####
+BBBRRR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+#####BBRRRR
+State 363
+
+BBBB B#####
+BBBBBR#####
+BBBRRR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+#####BBRRRR
+State 364
+
+BBBBBB#####
+BBBB R#####
+BBBRRR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+#####BBRRRR
+State 365
+
+BBBBBB#####
+BBBBBR#####
+BBBRRR#####
+BBRB R#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+#####BBRRRR
+State 366
+
+BBBBBB#####
+BBBBBR#####
+BBBRRR#####
+BBRBBR#####
+RRRRRR#####
+RRRR RBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+#####BBRRRR
+State 367
+
+BBBBBB#####
+BBBBBR#####
+BBBRRR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBR RRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+#####BBRRRR
+State 368
+
+BBBBBB#####
+BBBBBR#####
+BBBRRR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####B BRRR
+#####BBBRRR
+#####BBRRRR
+#####BBRRRR
+State 369
+
+BBBBBB#####
+BBBBBR#####
+BBBRRR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####B RRRR
+#####BBRRRR
+State 370
+
+BBBBBB#####
+BBBBBR#####
+BBBRRR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+#####B RRRR
+State 371
+
+BBBBBB#####
+BBBBBR#####
+BBBRRR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+#####BR RRR
+State 372
+
+BBBBBB#####
+BBBBBR#####
+BBBRRR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BB RRR
+#####BRRRRR
+State 373
+
+BBBBBB#####
+BBBBBR#####
+BBBRRR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBR RR
+#####BRRRRR
+State 374
+
+BBBBBB#####
+BBBBBR#####
+BBBRRR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBB RR
+#####BBBRRR
+#####BBRRRR
+#####BRRRRR
+State 375
+
+BBBBBB#####
+BBBBBR#####
+BBBRRR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBR RR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+#####BRRRRR
+State 376
+
+BBBBBB#####
+BBBBBR#####
+BBBRRR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRB RRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+#####BRRRRR
+State 377
+
+BBBBBB#####
+BBBBBR#####
+BBBRRR#####
+BBRBBR#####
+RRRRRR#####
+RRRRB BRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+#####BRRRRR
+State 378
+
+BBBBBB#####
+BBBBBR#####
+BBBRRR#####
+BBRBB #####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+#####BRRRRR
+State 379
+
+BBBBBB#####
+BBBBBR#####
+BBBRR #####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+#####BRRRRR
+State 380
+
+BBBBBB#####
+BBBBBR#####
+BBB RR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+#####BRRRRR
+State 381
+
+BBBBBB#####
+BBBBBR#####
+BBBBRR#####
+BBR BR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+#####BRRRRR
+State 382
+
+BBBBBB#####
+BBBBBR#####
+BBBBRR#####
+BBRB R#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+#####BRRRRR
+State 383
+
+BBBBBB#####
+BBBBBR#####
+BBBBRR#####
+BBRBBR#####
+RRRRRR#####
+RRRR RBRRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+#####BRRRRR
+State 384
+
+BBBBBB#####
+BBBBBR#####
+BBBBRR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBR RRRR
+#####BBBBBB
+#####BBBRRR
+#####BBBRRR
+#####BBRRRR
+#####BRRRRR
+State 385
+
+BBBBBB#####
+BBBBBR#####
+BBBBRR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####B BRRR
+#####BBBRRR
+#####BBRRRR
+#####BRRRRR
+State 386
+
+BBBBBB#####
+BBBBBR#####
+BBBBRR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BB RRR
+#####BBBRRR
+#####BBRRRR
+#####BRRRRR
+State 387
+
+BBBBBB#####
+BBBBBR#####
+BBBBRR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRB RRR
+#####BBBBBB
+#####BBRRRR
+#####BBBRRR
+#####BBRRRR
+#####BRRRRR
+State 388
+
+BBBBBB#####
+BBBBBR#####
+BBBBRR#####
+BBRBBR#####
+RRRRRR#####
+RRRRB BRRRR
+#####BBBBBB
+#####BBRRRR
+#####BBBRRR
+#####BBRRRR
+#####BRRRRR
+State 389
+
+BBBBBB#####
+BBBBBR#####
+BBBBRR#####
+BBRBB #####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBRRRR
+#####BBBRRR
+#####BBRRRR
+#####BRRRRR
+State 390
+
+BBBBBB#####
+BBBBBR#####
+BBBBR #####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBRRRR
+#####BBBRRR
+#####BBRRRR
+#####BRRRRR
+State 391
+
+BBBBBB#####
+BBBBBR#####
+BBBB R#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBRRRR
+#####BBBRRR
+#####BBRRRR
+#####BRRRRR
+State 392
+
+BBBBBB#####
+BBBBBR#####
+BBBBBR#####
+BBRB R#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBRRRR
+#####BBBRRR
+#####BBRRRR
+#####BRRRRR
+State 393
+
+BBBBBB#####
+BBBBBR#####
+BBBBBR#####
+BBRBBR#####
+RRRRRR#####
+RRRR RBRRRR
+#####BBBBBB
+#####BBRRRR
+#####BBBRRR
+#####BBRRRR
+#####BRRRRR
+State 394
+
+BBBBBB#####
+BBBBBR#####
+BBBBBR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBR RRRR
+#####BBBBBB
+#####BBRRRR
+#####BBBRRR
+#####BBRRRR
+#####BRRRRR
+State 395
+
+BBBBBB#####
+BBBBBR#####
+BBBBBR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####B RRRR
+#####BBBRRR
+#####BBRRRR
+#####BRRRRR
+State 396
+
+BBBBBB#####
+BBBBBR#####
+BBBBBR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBRRRR
+#####B BRRR
+#####BBRRRR
+#####BRRRRR
+State 397
+
+BBBBBB#####
+BBBBBR#####
+BBBBBR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBRRRR
+#####BB RRR
+#####BBRRRR
+#####BRRRRR
+State 398
+
+BBBBBB#####
+BBBBBR#####
+BBBBBR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BB RRR
+#####BBRRRR
+#####BBRRRR
+#####BRRRRR
+State 399
+
+BBBBBB#####
+BBBBBR#####
+BBBBBR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRB RRR
+#####BBBBBB
+#####BBRRRR
+#####BBRRRR
+#####BBRRRR
+#####BRRRRR
+State 400
+
+BBBBBB#####
+BBBBBR#####
+BBBBBR#####
+BBRBBR#####
+RRRRRR#####
+RRRRB BRRRR
+#####BBBBBB
+#####BBRRRR
+#####BBRRRR
+#####BBRRRR
+#####BRRRRR
+State 401
+
+BBBBBB#####
+BBBBBR#####
+BBBBBR#####
+BBRBB #####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBRRRR
+#####BBRRRR
+#####BBRRRR
+#####BRRRRR
+State 402
+
+BBBBBB#####
+BBBBB #####
+BBBBBR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBRRRR
+#####BBRRRR
+#####BBRRRR
+#####BRRRRR
+State 403
+
+BBBBBB#####
+BBBB B#####
+BBBBBR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBRRRR
+#####BBRRRR
+#####BBRRRR
+#####BRRRRR
+State 404
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRB R#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBRRRR
+#####BBRRRR
+#####BBRRRR
+#####BRRRRR
+State 405
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+RRRRRR#####
+RRRR RBRRRR
+#####BBBBBB
+#####BBRRRR
+#####BBRRRR
+#####BBRRRR
+#####BRRRRR
+State 406
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBR RRRR
+#####BBBBBB
+#####BBRRRR
+#####BBRRRR
+#####BBRRRR
+#####BRRRRR
+State 407
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####B RRRR
+#####BBRRRR
+#####BBRRRR
+#####BRRRRR
+State 408
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBRRRR
+#####BBRRRR
+#####B RRRR
+#####BRRRRR
+State 409
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBRRRR
+#####BBRRRR
+#####BR RRR
+#####BRRRRR
+State 410
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BB RRR
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+State 411
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+RRRRRR#####
+RRRRBRB RRR
+#####BBBBBB
+#####BBRRRR
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+State 412
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+RRRRRR#####
+RRRRB BRRRR
+#####BBBBBB
+#####BBRRRR
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+State 413
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+RRRRRR#####
+RRR BRBRRRR
+#####BBBBBB
+#####BBRRRR
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+State 414
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+RRRRRR#####
+R RRBRBRRRR
+#####BBBBBB
+#####BBRRRR
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+State 415
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+R RRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBRRRR
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+State 416
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+ RRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBRRRR
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+State 417
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+ BRBBR#####
+BRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBRRRR
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+State 418
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+B RBBR#####
+BRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBRRRR
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+State 419
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBR BR#####
+BRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBRRRR
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+State 420
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRB R#####
+BRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBRRRR
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+State 421
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+BRRRRR#####
+RRRR RBRRRR
+#####BBBBBB
+#####BBRRRR
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+State 422
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+BRRRRR#####
+RRRRBR RRRR
+#####BBBBBB
+#####BBRRRR
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+State 423
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+BRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####B RRRR
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+State 424
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+BRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBRRRR
+#####B RRRR
+#####BRRRRR
+#####BRRRRR
+State 425
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+BRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBRRRR
+#####BR RRR
+#####BRRRRR
+#####BRRRRR
+State 426
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+BRRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BB RRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 427
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+BRRRRR#####
+RRRRBRB RRR
+#####BBBBBB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 428
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+BRRRRR#####
+RRRRB BRRRR
+#####BBBBBB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 429
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+BRRRRR#####
+RRR BRBRRRR
+#####BBBBBB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 430
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+BRRRRR#####
+R RRBRBRRRR
+#####BBBBBB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 431
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+B RRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 432
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+B RBBR#####
+BBRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 433
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBR BR#####
+BBRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 434
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRB R#####
+BBRRRR#####
+RRRRBRBRRRR
+#####BBBBBB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 435
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+BBRRRR#####
+RRRR RBRRRR
+#####BBBBBB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 436
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+BBRRRR#####
+RRRRBR RRRR
+#####BBBBBB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 437
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+BBRRRR#####
+RRRRB RRRRR
+#####BBBBBB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 438
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+BBRRRR#####
+RRR BRRRRRR
+#####BBBBBB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 439
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+BBRRRR#####
+R RRBRRRRRR
+#####BBBBBB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 440
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+BBRRRR#####
+ RRRBRRRRRR
+#####BBBBBB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 441
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+ BRRRR#####
+BRRRBRRRRRR
+#####BBBBBB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 442
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+B RRRR#####
+BRRRBRRRRRR
+#####BBBBBB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 443
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+B RBBR#####
+BBRRRR#####
+BRRRBRRRRRR
+#####BBBBBB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 444
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBR BR#####
+BBRRRR#####
+BRRRBRRRRRR
+#####BBBBBB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 445
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRB R#####
+BBRRRR#####
+BRRRBRRRRRR
+#####BBBBBB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 446
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+BBRRRR#####
+BRRR RRRRRR
+#####BBBBBB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 447
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBRBBR#####
+BBRRRR#####
+BR RRRRRRRR
+#####BBBBBB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 448
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BB BBR#####
+BBRRRR#####
+BRRRRRRRRRR
+#####BBBBBB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 449
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBBB R#####
+BBRRRR#####
+BRRRRRRRRRR
+#####BBBBBB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 450
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBBBR #####
+BBRRRR#####
+BRRRRRRRRRR
+#####BBBBBB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 451
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBBBRR#####
+BBRRR #####
+BRRRRRRRRRR
+#####BBBBBB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 452
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBBBRR#####
+BBRRRB#####
+BRRRRRRRRRR
+##### BBBBB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 453
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBBBRR#####
+BBRRRB#####
+BRRRRRRRRRR
+#####BB BBB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 454
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBBBRR#####
+BBRRRB#####
+BRRRRRRRRRR
+#####BBBB B
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 455
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBBBRR#####
+BBRRRB#####
+BRRRRRRRR R
+#####BBBBRB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 456
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBBBRR#####
+BBRRRB#####
+BRRRRRR RRR
+#####BBBBRB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 457
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBBBRR#####
+BBRRRB#####
+BRRRR RRRRR
+#####BBBBRB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 458
+
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBBBR #####
+BBRRRB#####
+BRRRRRRRRRR
+#####BBBBRB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 459
+
+BBBBBB#####
+BBBBBB#####
+BBBBB #####
+BBBBRR#####
+BBRRRB#####
+BRRRRRRRRRR
+#####BBBBRB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 460
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRR#####
+BBRRR #####
+BRRRRRRRRRR
+#####BBBBRB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 461
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRR#####
+BBRRRB#####
+BRRRRRRRRRR
+##### BBBRB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 462
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRR#####
+BBRRRB#####
+BRRRRRRRRRR
+#####BB BRB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 463
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRR#####
+BBRRRB#####
+BRRRRRR RRR
+#####BBRBRB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 464
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRR#####
+BBRRRB#####
+BRRRR RRRRR
+#####BBRBRB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 465
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBR #####
+BBRRRB#####
+BRRRRRRRRRR
+#####BBRBRB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 466
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRB#####
+BBRRR #####
+BRRRRRRRRRR
+#####BBRBRB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 467
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRB#####
+BBRRRB#####
+BRRRRRRRRRR
+##### BRBRB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+State 468
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRB#####
+BBRRRB#####
+BRRRRRRRRRR
+#####BBRBRB
+#####BBRRRR
+##### RRRRR
+#####BRRRRR
+#####BRRRRR
+State 469
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRB#####
+BBRRRB#####
+BRRRRRRRRRR
+#####BBRBRB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+##### RRRRR
+State 470
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRB#####
+BBRRRB#####
+BRRRRRRRRRR
+#####BBRBRB
+#####BBRRRR
+#####BRRRRR
+#####BRRRRR
+#####R RRRR
+State 471
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRB#####
+BBRRRB#####
+BRRRRRRRRRR
+#####BBRBRB
+#####BBRRRR
+#####B RRRR
+#####BRRRRR
+#####RRRRRR
+State 472
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRB#####
+BBRRRB#####
+BRRRRRRRRRR
+#####BBRBRB
+#####B RRRR
+#####BBRRRR
+#####BRRRRR
+#####RRRRRR
+State 473
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRB#####
+BBRRRB#####
+BRRRRR RRRR
+#####BBRBRB
+#####BRRRRR
+#####BBRRRR
+#####BRRRRR
+#####RRRRRR
+State 474
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRB#####
+BBRRRB#####
+BRRR RRRRRR
+#####BBRBRB
+#####BRRRRR
+#####BBRRRR
+#####BRRRRR
+#####RRRRRR
+State 475
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBB B#####
+BBRRRB#####
+BRRRRRRRRRR
+#####BBRBRB
+#####BRRRRR
+#####BBRRRR
+#####BRRRRR
+#####RRRRRR
+State 476
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBB #####
+BBRRRB#####
+BRRRRRRRRRR
+#####BBRBRB
+#####BRRRRR
+#####BBRRRR
+#####BRRRRR
+#####RRRRRR
+State 477
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBRRR #####
+BRRRRRRRRRR
+#####BBRBRB
+#####BRRRRR
+#####BBRRRR
+#####BRRRRR
+#####RRRRRR
+State 478
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBRRRB#####
+BRRRRRRRRRR
+##### BRBRB
+#####BRRRRR
+#####BBRRRR
+#####BRRRRR
+#####RRRRRR
+State 479
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBRRRB#####
+BRRRRRRRRRR
+#####BBRBRB
+#####BRRRRR
+##### BRRRR
+#####BRRRRR
+#####RRRRRR
+State 480
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBRRRB#####
+BRRRRRRRRRR
+#####BBRBRB
+#####BRRRRR
+#####B RRRR
+#####BRRRRR
+#####RRRRRR
+State 481
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBRRRB#####
+BRRRRRRRRRR
+#####BBRBRB
+#####B RRRR
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+State 482
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBRRRB#####
+BRRRRR RRRR
+#####BBRBRB
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+State 483
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBRRRB#####
+BRRR RRRRRR
+#####BBRBRB
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+State 484
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBRRRB#####
+BR RRRRRRRR
+#####BBRBRB
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+State 485
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BB RRB#####
+BRRRRRRRRRR
+#####BBRBRB
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+State 486
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BB BBB#####
+BBBRRB#####
+BRRRRRRRRRR
+#####BBRBRB
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+State 487
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBB B#####
+BBBRRB#####
+BRRRRRRRRRR
+#####BBRBRB
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+State 488
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBB #####
+BBBRRB#####
+BRRRRRRRRRR
+#####BBRBRB
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+State 489
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBRR #####
+BRRRRRRRRRR
+#####BBRBRB
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+State 490
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBRRB#####
+BRRRRRRRRRR
+##### BRBRB
+#####BRRRRR
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+State 491
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBRRB#####
+BRRRRRRRRRR
+#####BBRBRB
+#####BRRRRR
+##### RRRRR
+#####BRRRRR
+#####RRRRRR
+State 492
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBRRB#####
+BRRRRRRRRRR
+#####BBRBRB
+#####BRRRRR
+#####BRRRRR
+##### RRRRR
+#####RRRRRR
+State 493
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBRRB#####
+BRRRRRRRRRR
+#####BBRBRB
+#####BRRRRR
+#####BRRRRR
+#####R RRRR
+#####RRRRRR
+State 494
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBRRB#####
+BRRRRRRRRRR
+#####BBRBRB
+#####B RRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+State 495
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBRRB#####
+BRRRRR RRRR
+#####BBRBRB
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+State 496
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBRRB#####
+BRRR RRRRRR
+#####BBRBRB
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+State 497
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBRRB#####
+BR RRRRRRRR
+#####BBRBRB
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+State 498
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBRRB#####
+B RRRRRRRRR
+#####BBRBRB
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+State 499
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+B BRRB#####
+BBRRRRRRRRR
+#####BBRBRB
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+State 500
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BB RRB#####
+BBRRRRRRRRR
+#####BBRBRB
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+State 501
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BB BBB#####
+BBBRRB#####
+BBRRRRRRRRR
+#####BBRBRB
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+State 502
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBB B#####
+BBBRRB#####
+BBRRRRRRRRR
+#####BBRBRB
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+State 503
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBB #####
+BBBRRB#####
+BBRRRRRRRRR
+#####BBRBRB
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+State 504
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBRR #####
+BBRRRRRRRRR
+#####BBRBRB
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+State 505
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBRRB#####
+BBRRRRRRRRR
+##### BRBRB
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+State 506
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBRRB#####
+BBRRR RRRRR
+#####RBRBRB
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+State 507
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBRRB#####
+BBR RRRRRRR
+#####RBRBRB
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+State 508
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBB RB#####
+BBRRRRRRRRR
+#####RBRBRB
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+State 509
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBR #####
+BBRRRRRRRRR
+#####RBRBRB
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+State 510
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBB R#####
+BBRRRRRRRRR
+#####RBRBRB
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+State 511
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRR#####
+BBRR RRRRRR
+#####RBRBRB
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+State 512
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRR#####
+BB RRRRRRRR
+#####RBRBRB
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+State 513
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BB BRR#####
+BBBRRRRRRRR
+#####RBRBRB
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+State 514
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBB RR#####
+BBBRRRRRRRR
+#####RBRBRB
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+State 515
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBB BB#####
+BBBBRR#####
+BBBRRRRRRRR
+#####RBRBRB
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+State 516
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBB #####
+BBBBRR#####
+BBBRRRRRRRR
+#####RBRBRB
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+State 517
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBBBRR#####
+BBBRR RRRRR
+#####RBRBRB
+#####BRRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+State 518
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBBBRR#####
+BBBRRBRRRRR
+#####RBRBRB
+##### RRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+State 519
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBBBRR#####
+BBBRRBRRRRR
+##### BRBRB
+#####RRRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+State 520
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBBBR #####
+BBBRRBRRRRR
+#####RBRBRB
+#####RRRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+State 521
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBB #####
+BBBBRR#####
+BBBRRBRRRRR
+#####RBRBRB
+#####RRRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+State 522
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRR#####
+BBBRR RRRRR
+#####RBRBRB
+#####RRRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+State 523
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRR#####
+BBBRRRRRRRR
+##### BRBRB
+#####RRRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+State 524
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRR#####
+BBBRRRRRRRR
+#####BBRBRB
+#####RRRRRR
+##### RRRRR
+#####RRRRRR
+#####RRRRRR
+State 525
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRR#####
+BBBRRRRRRRR
+#####BBRBRB
+##### RRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 526
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRR#####
+BBBRR RRRRR
+#####BBRBRB
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 527
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRR#####
+BBBRRBRRRRR
+##### BRBRB
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 528
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBR #####
+BBBRRBRRRRR
+#####RBRBRB
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 529
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBB R#####
+BBBRRBRRRRR
+#####RBRBRB
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 530
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBB B#####
+BBBBBR#####
+BBBRRBRRRRR
+#####RBRBRB
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 531
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBB #####
+BBBBBR#####
+BBBRRBRRRRR
+#####RBRBRB
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 532
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBBRR RRRRR
+#####RBRBRB
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 533
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBB RRRRRRR
+#####RBRBRB
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 534
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBB BR#####
+BBBBRRRRRRR
+#####RBRBRB
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 535
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBB R#####
+BBBBRRRRRRR
+#####RBRBRB
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 536
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBR #####
+BBBBRRRRRRR
+#####RBRBRB
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 537
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRR#####
+BBBBRRRRRRR
+##### BRBRB
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 538
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRR#####
+BBBBRRRRRRR
+#####B RBRB
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 539
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRR#####
+BBBBRRRRRRR
+#####BBR RB
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 540
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRR#####
+BBBBRRRRRRR
+#####BBRBR 
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 541
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRR#####
+BBBBRRRRRR 
+#####BBRBRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 542
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRR#####
+BBBBRRRR RR
+#####BBRBRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 543
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRR#####
+BBBBRR RRRR
+#####BBRBRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 544
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRR#####
+BBBBRRBRRRR
+#####B RBRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 545
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRR#####
+BBBBRRBRRRR
+#####BBR RR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 546
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRR#####
+BBBBRRBR RR
+#####BBRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 547
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRR#####
+BBBBRRB RRR
+#####BBRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 548
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRR#####
+BBBBR BRRRR
+#####BBRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 549
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRR#####
+BBBBRB RRRR
+#####BBRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 550
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRR#####
+BBBB BRRRRR
+#####BBRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 551
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRR#####
+BBBBB RRRRR
+#####BBRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 552
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRR#####
+BBBBBBRRRRR
+##### BRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 553
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRR#####
+BBBBBBRRRRR
+#####B RRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 554
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRR#####
+BBBBBB RRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 555
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBRR#####
+BBBBB BRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 556
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBR #####
+BBBBBRBRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 557
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBB R#####
+BBBBBRBRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 558
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBBB RBRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 559
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBBBBR RRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 560
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBBBB RRRRR
+#####BRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 561
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBR#####
+BBBBBBRRRRR
+##### RRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 562
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBB #####
+BBBBBBRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 563
+
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBBB#####
+BBBBB RRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+#####RRRRRR
+State 564
+
+Solution has 564 steps.
+

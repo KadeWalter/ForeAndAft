@@ -10,1883 +10,1532 @@ State 0
 RRRR###
 RRRR###
 RRRR###
-RRRBBBB
-### BBB
+RRRB BB
+###BBBB
 ###BBBB
 ###BBBB
 State 1
 
 RRRR###
 RRRR###
-RRR ###
-RRRBBBB
-###RBBB
+RRRR###
+RR BRBB
+###BBBB
 ###BBBB
 ###BBBB
 State 2
 
 RRRR###
 RRRR###
-RRRB###
-RRR BBB
-###RBBB
+RRRR###
+RRB RBB
+###BBBB
 ###BBBB
 ###BBBB
 State 3
 
 RRRR###
+RRR ###
 RRRR###
-RRRB###
-RRRBBBB
-###RBBB
-### BBB
+RRBRRBB
+###BBBB
+###BBBB
 ###BBBB
 State 4
 
 RRRR###
+RR R###
 RRRR###
-RRRB###
-RRRBBBB
-###RBBB
+RRBRRBB
 ###BBBB
-### BBB
+###BBBB
+###BBBB
 State 5
 
 RRRR###
+RRBR###
 RRRR###
-RRRB###
-RRRBBBB
-### BBB
+RR RRBB
 ###BBBB
-###RBBB
+###BBBB
+###BBBB
 State 6
 
 RRRR###
+RRBR###
 RRRR###
-RRRB###
-RRRBBBB
+ RRRRBB
 ###BBBB
-### BBB
-###RBBB
+###BBBB
+###BBBB
 State 7
 
 RRRR###
+ RBR###
 RRRR###
-RRRB###
-RRRBBBB
+RRRRRBB
 ###BBBB
-###BB B
-###RBBB
+###BBBB
+###BBBB
 State 8
 
 RRRR###
+BR R###
 RRRR###
-RRRB###
-RRRBBBB
+RRRRRBB
 ###BBBB
 ###BBBB
-###RB B
+###BBBB
 State 9
 
+RR R###
+BRRR###
 RRRR###
-RRRR###
-RRRB###
-RRRBBBB
+RRRRRBB
 ###BBBB
 ###BBBB
-### BRB
+###BBBB
 State 10
 
+ RRR###
+BRRR###
 RRRR###
-RRRR###
-RRRB###
-RRRBBBB
+RRRRRBB
 ###BBBB
 ###BBBB
-###B RB
+###BBBB
 State 11
 
+BRRR###
+ RRR###
 RRRR###
-RRRR###
-RRRB###
-RRRBBBB
+RRRRRBB
 ###BBBB
 ###BBBB
-###BBR 
+###BBBB
 State 12
 
+BRRR###
+R RR###
 RRRR###
-RRRR###
-RRRB###
-RRRBBBB
+RRRRRBB
 ###BBBB
 ###BBBB
-###BB R
+###BBBB
 State 13
 
+BRRR###
 RRRR###
-RRRR###
-RRRB###
-RRRBBBB
+R RR###
+RRRRRBB
 ###BBBB
 ###BBBB
-###B BR
+###BBBB
 State 14
 
+BRRR###
 RRRR###
-RRRR###
-RRRB###
-RRRBBBB
+RRR ###
+RRRRRBB
 ###BBBB
-###B BB
-###BBBR
+###BBBB
+###BBBB
 State 15
 
-RRRR###
+BRRR###
 RRRR###
 RRRB###
-RRRB BB
+RRRRRBB
+### BBB
 ###BBBB
 ###BBBB
-###BBBR
 State 16
 
-RRRR###
+BRRR###
 RRRR###
 RRRB###
-RR BRBB
+RRRRRBB
+###BB B
 ###BBBB
 ###BBBB
-###BBBR
 State 17
 
-RRRR###
+BRRR###
 RRRR###
 RRRB###
-RRB RBB
+RRRRRBB
 ###BBBB
 ###BBBB
-###BBBR
+###BB B
 State 18
 
-RRRR###
+BRRR###
 RRRR###
 RRRB###
-RRBBRBB
+RRRRRBB
 ###BBBB
-### BBB
-###BBBR
+###BBBB
+###BBB 
 State 19
 
-RRRR###
+BRRR###
 RRRR###
 RRRB###
-RRBBRBB
+RRRRRBB
 ###BBBB
-###B BB
-###BBBR
+###BBB 
+###BBBB
 State 20
 
-RRRR###
+BRRR###
 RRRR###
 RRRB###
-RRBB BB
+RRRRRBB
 ###BBBB
-###BRBB
-###BBBR
+###B BB
+###BBBB
 State 21
 
-RRRR###
+BRRR###
 RRRR###
 RRRB###
-RRBBBBB
-###B BB
+RRRR BB
+###BBBB
 ###BRBB
-###BBBR
+###BBBB
 State 22
 
-RRRR###
+BRRR###
 RRRR###
 RRRB###
-RRBBBBB
+RRRRBB 
 ###BBBB
 ###BRBB
-###B BR
+###BBBB
 State 23
 
-RRRR###
-RRRR###
-RRRB###
-RRBBBBB
-###BBBB
-###B BB
-###BRBR
-State 24
-
-RRRR###
+BRRR###
 RRRR###
 RRRB###
-RRBBBBB
-###BBBB
-###BB B
-###BRBR
-State 25
-
-RRRR###
-RRRR###
-RRRB###
-RRBBBBB
-###BBBB
-###BBBB
-###BR R
-State 26
-
-RRRR###
-RRRR###
-RRRB###
-RRBBBBB
-###BBBB
-###BBBB
-###B RR
-State 27
-
-RRRR###
-RRRR###
-RRRB###
-RRBBBBB
-###BBBB
-###BBBB
-### BRR
-State 28
-
-RRRR###
-RRRR###
-RRRB###
-RRBBBBB
-###BBBB
-### BBB
-###BBRR
-State 29
-
-RRRR###
-RRRR###
-RRRB###
-RRB BBB
-###BBBB
-###BBBB
-###BBRR
-State 30
-
-RRRR###
-RRR ###
-RRRB###
-RRBRBBB
-###BBBB
-###BBBB
-###BBRR
-State 31
-
-RRRR###
-RRRB###
-RRR ###
-RRBRBBB
-###BBBB
-###BBBB
-###BBRR
-State 32
-
-RRRR###
-RRRB###
-RRRB###
-RRBRBBB
-### BBB
-###BBBB
-###BBRR
-State 33
-
-RRRR###
-RRRB###
-RRRB###
-RRBRBBB
-###BBBB
-### BBB
-###BBRR
-State 34
-
-RRRR###
-RRRB###
-RRRB###
-RRB BBB
-###BBBB
-###RBBB
-###BBRR
-State 35
-
-RRRR###
-RRRB###
-RRRB###
-RRBBBBB
-### BBB
-###RBBB
-###BBRR
-State 36
-
-RRRR###
-RRRB###
-RRRB###
-RRBBBBB
-###BBBB
-###RBBB
-### BRR
-State 37
-
-RRRR###
-RRRB###
-RRRB###
-RRBBBBB
-###BBBB
-### BBB
-###RBRR
-State 38
-
-RRRR###
-RRRB###
-RRRB###
-RRB BBB
-###BBBB
-###BBBB
-###RBRR
-State 39
-
-RRRR###
-RRRB###
-RRRB###
-R BRBBB
-###BBBB
-###BBBB
-###RBRR
-State 40
-
-RRRR###
-RRRB###
-RRRB###
-RB RBBB
-###BBBB
-###BBBB
-###RBRR
-State 41
-
-RRRR###
-RRRB###
-RRRB###
-RBBR BB
-###BBBB
-###BBBB
-###RBRR
-State 42
-
-RRRR###
-RRRB###
-RRRB###
-RBBRBBB
-###BBBB
-###B BB
-###RBRR
-State 43
-
-RRRR###
-RRRB###
-RRRB###
-RBBRBBB
-###BBBB
-###BBBB
-###R RR
-State 44
-
-RRRR###
-RRRB###
-RRRB###
-RBBRBBB
-###BBBB
-###BBBB
-### RRR
-State 45
-
-RRRR###
-RRRB###
-RRRB###
-RBBRBBB
-###BBBB
-### BBB
-###BRRR
-State 46
-
-RRRR###
-RRRB###
-RRRB###
-RBB BBB
-###BBBB
-###RBBB
-###BRRR
-State 47
-
-RRRR###
-RRRB###
-RRRB###
-RBBBBBB
-### BBB
-###RBBB
-###BRRR
-State 48
-
-RRRR###
-RRRB###
-RRRB###
-RBBBBBB
-###BBBB
-###RBBB
-### RRR
-State 49
-
-RRRR###
-RRRB###
-RRRB###
-RBBBBBB
-###BBBB
-### BBB
-###RRRR
-State 50
-
-RRRR###
-RRRB###
-RRRB###
-RBBBBBB
-###BBBB
-###B BB
-###RRRR
-State 51
-
-RRRR###
-RRRB###
-RRRB###
-RBBB BB
-###BBBB
-###BBBB
-###RRRR
-State 52
-
-RRRR###
-RRRB###
-RRRB###
-RB BBBB
-###BBBB
-###BBBB
-###RRRR
-State 53
-
-RRRR###
-RRRB###
-RR B###
-RBRBBBB
-###BBBB
-###BBBB
-###RRRR
-State 54
-
-RRRR###
-RRRB###
-RRB ###
-RBRBBBB
-###BBBB
-###BBBB
-###RRRR
-State 55
-
-RRRR###
-RRRB###
-RRBB###
-RBRBBBB
-### BBB
-###BBBB
-###RRRR
-State 56
-
-RRRR###
-RRRB###
-RRBB###
-RBRBBBB
-###BBBB
-### BBB
-###RRRR
-State 57
-
-RRRR###
-RRRB###
-RRBB###
-RBRBBBB
-###BBBB
-###B BB
-###RRRR
-State 58
-
-RRRR###
-RRRB###
-RRBB###
-RBRB BB
-###BBBB
-###BBBB
-###RRRR
-State 59
-
-RRRR###
-RRRB###
-RRBB###
-RB BRBB
-###BBBB
-###BBBB
-###RRRR
-State 60
-
-RRRR###
-RRRB###
-RRBB###
-RBB RBB
-###BBBB
-###BBBB
-###RRRR
-State 61
-
-RRRR###
-RRRB###
-RRBB###
-RBBBRBB
-###BBBB
-### BBB
-###RRRR
-State 62
-
-RRRR###
-RRRB###
-RRBB###
-RBBBRBB
-###BBBB
-###B BB
-###RRRR
-State 63
-
-RRRR###
-RRRB###
-RRBB###
-RBBB BB
-###BBBB
-###BRBB
-###RRRR
-State 64
-
-RRRR###
-RRRB###
-RRBB###
-RBBBBBB
-###B BB
-###BRBB
-###RRRR
-State 65
-
-RRRR###
-RRRB###
-RRBB###
-RBBBBBB
-###BBB 
-###BRBB
-###RRRR
-State 66
-
-RRRR###
-RRRB###
-RRBB###
-RBBBBBB
+RRRRBBB
 ###BBBB
 ###BRB 
-###RRRR
+###BBBB
+State 24
+
+BRRR###
+RRRR###
+RRRB###
+RRRRBBB
+###BBBB
+###B BR
+###BBBB
+State 25
+
+BRRR###
+RRRR###
+RRRB###
+RRRRBBB
+###BBBB
+###BB R
+###BBBB
+State 26
+
+BRRR###
+RRRR###
+RRRB###
+RRRRBBB
+###BBBB
+###BBBR
+###BB B
+State 27
+
+BRRR###
+RRRR###
+RRRB###
+RRRRBBB
+###BBBB
+###BBBR
+###BBB 
+State 28
+
+BRRR###
+RRRR###
+RRRB###
+RRRRBBB
+###BBBB
+###BBB 
+###BBBR
+State 29
+
+BRRR###
+RRRR###
+RRRB###
+RRRRBBB
+###BBBB
+###BB B
+###BBBR
+State 30
+
+BRRR###
+RRRR###
+RRRB###
+RRRRB B
+###BBBB
+###BBBB
+###BBBR
+State 31
+
+BRRR###
+RRRR###
+RRRB###
+RRR BRB
+###BBBB
+###BBBB
+###BBBR
+State 32
+
+BRRR###
+RRR ###
+RRRB###
+RRRRBRB
+###BBBB
+###BBBB
+###BBBR
+State 33
+
+BRR ###
+RRRR###
+RRRB###
+RRRRBRB
+###BBBB
+###BBBB
+###BBBR
+State 34
+
+BRRB###
+RRRR###
+RRR ###
+RRRRBRB
+###BBBB
+###BBBB
+###BBBR
+State 35
+
+BRRB###
+RRRR###
+R RR###
+RRRRBRB
+###BBBB
+###BBBB
+###BBBR
+State 36
+
+B RB###
+RRRR###
+RRRR###
+RRRRBRB
+###BBBB
+###BBBB
+###BBBR
+State 37
+
+BBR ###
+RRRR###
+RRRR###
+RRRRBRB
+###BBBB
+###BBBB
+###BBBR
+State 38
+
+BBRR###
+RRRR###
+RRR ###
+RRRRBRB
+###BBBB
+###BBBB
+###BBBR
+State 39
+
+BBRR###
+RRRR###
+RRRB###
+RRRRBRB
+### BBB
+###BBBB
+###BBBR
+State 40
+
+BBRR###
+RRRR###
+RRRB###
+RRRRBRB
+###BB B
+###BBBB
+###BBBR
+State 41
+
+BBRR###
+RRRR###
+RRRB###
+RRRRB B
+###BBRB
+###BBBB
+###BBBR
+State 42
+
+BBRR###
+RRRR###
+RRRB###
+RRR BRB
+###BBRB
+###BBBB
+###BBBR
+State 43
+
+BBRR###
+RRR ###
+RRRB###
+RRRRBRB
+###BBRB
+###BBBB
+###BBBR
+State 44
+
+BBR ###
+RRRR###
+RRRB###
+RRRRBRB
+###BBRB
+###BBBB
+###BBBR
+State 45
+
+BBRB###
+RRRR###
+RRR ###
+RRRRBRB
+###BBRB
+###BBBB
+###BBBR
+State 46
+
+BBRB###
+RRRR###
+R RR###
+RRRRBRB
+###BBRB
+###BBBB
+###BBBR
+State 47
+
+BBRB###
+R RR###
+RRRR###
+RRRRBRB
+###BBRB
+###BBBB
+###BBBR
+State 48
+
+BBRB###
+ RRR###
+RRRR###
+RRRRBRB
+###BBRB
+###BBBB
+###BBBR
+State 49
+
+ BRB###
+BRRR###
+RRRR###
+RRRRBRB
+###BBRB
+###BBBB
+###BBBR
+State 50
+
+B RB###
+BRRR###
+RRRR###
+RRRRBRB
+###BBRB
+###BBBB
+###BBBR
+State 51
+
+BBR ###
+BRRR###
+RRRR###
+RRRRBRB
+###BBRB
+###BBBB
+###BBBR
+State 52
+
+BBRR###
+BRRR###
+RRR ###
+RRRRBRB
+###BBRB
+###BBBB
+###BBBR
+State 53
+
+BBRR###
+BRRR###
+RRRB###
+RRRRBRB
+### BRB
+###BBBB
+###BBBR
+State 54
+
+BBRR###
+BRRR###
+RRRB###
+RRRRBRB
+###BBRB
+###BBBB
+### BBR
+State 55
+
+BBRR###
+BRRR###
+RRRB###
+RRRRBRB
+###BBRB
+###BBBB
+###BB R
+State 56
+
+BBRR###
+BRRR###
+RRRB###
+RRRRBRB
+###BB B
+###BBBB
+###BBRR
+State 57
+
+BBRR###
+BRRR###
+RRRB###
+RRRRB B
+###BBRB
+###BBBB
+###BBRR
+State 58
+
+BBRR###
+BRRR###
+RRRB###
+RRR BRB
+###BBRB
+###BBBB
+###BBRR
+State 59
+
+BBRR###
+BRR ###
+RRRB###
+RRRRBRB
+###BBRB
+###BBBB
+###BBRR
+State 60
+
+BBR ###
+BRRR###
+RRRB###
+RRRRBRB
+###BBRB
+###BBBB
+###BBRR
+State 61
+
+BBRB###
+BRRR###
+RRR ###
+RRRRBRB
+###BBRB
+###BBBB
+###BBRR
+State 62
+
+BBRB###
+BRRR###
+RRRB###
+RRRRBRB
+### BRB
+###BBBB
+###BBRR
+State 63
+
+BBRB###
+BRRR###
+RRRB###
+RRRRBRB
+###BBRB
+###BBBB
+### BRR
+State 64
+
+BBRB###
+BRRR###
+RRRB###
+RRRRBRB
+###BBRB
+###BBBB
+###B RR
+State 65
+
+BBRB###
+BRRR###
+RRRB###
+RRRRBRB
+###BBRB
+###B BB
+###BBRR
+State 66
+
+BBRB###
+BRRR###
+RRRB###
+RRRRBRB
+###BBRB
+###BB B
+###BBRR
 State 67
 
-RRRR###
+BBRB###
+BRRR###
 RRRB###
-RRBB###
-RBBBBBB
-###BBBB
-###B BR
-###RRRR
+RRRRB B
+###BBRB
+###BBRB
+###BBRR
 State 68
 
-RRRR###
+BBRB###
+BRRR###
 RRRB###
-RRBB###
-RBBB BB
-###BBBB
-###BBBR
-###RRRR
+RRR BRB
+###BBRB
+###BBRB
+###BBRR
 State 69
 
-RRRR###
+BBRB###
+BRR ###
 RRRB###
-RRBB###
-RB BBBB
-###BBBB
-###BBBR
-###RRRR
+RRRRBRB
+###BBRB
+###BBRB
+###BBRR
 State 70
 
-RRRR###
-RR B###
-RRBB###
-RBRBBBB
-###BBBB
-###BBBR
-###RRRR
+BBRB###
+BR R###
+RRRB###
+RRRRBRB
+###BBRB
+###BBRB
+###BBRR
 State 71
 
-RRRR###
-RRBB###
-RR B###
-RBRBBBB
-###BBBB
-###BBBR
-###RRRR
+BB B###
+BRRR###
+RRRB###
+RRRRBRB
+###BBRB
+###BBRB
+###BBRR
 State 72
 
-RRRR###
-RRBB###
-RRB ###
-RBRBBBB
-###BBBB
-###BBBR
-###RRRR
+BBB ###
+BRRR###
+RRRB###
+RRRRBRB
+###BBRB
+###BBRB
+###BBRR
 State 73
 
-RRRR###
-RRBB###
-RRBB###
-RBRBBBB
-### BBB
-###BBBR
-###RRRR
+BBBB###
+BRRR###
+RRR ###
+RRRRBRB
+###BBRB
+###BBRB
+###BBRR
 State 74
 
-RRRR###
-RRBB###
-RRBB###
-RBRBBBB
-###BBBB
-### BBR
-###RRRR
+BBBB###
+BRRR###
+RRRB###
+RRRRBRB
+### BRB
+###BBRB
+###BBRR
 State 75
 
-RRRR###
-RRBB###
-RRBB###
-RBRBBBB
-###BBBB
-###B BR
-###RRRR
+BBBB###
+BRRR###
+RRRB###
+RRRRBRB
+###BBRB
+###BBRB
+### BRR
 State 76
 
-RRRR###
-RRBB###
-RRBB###
-RBRB BB
-###BBBB
-###BBBR
-###RRRR
+BBBB###
+BRRR###
+RRRB###
+RRRRBRB
+###BBRB
+###BBRB
+###B RR
 State 77
 
-RRRR###
-RRBB###
-RRBB###
-RB BRBB
-###BBBB
-###BBBR
-###RRRR
+BBBB###
+BRRR###
+RRRB###
+RRRRBRB
+###BBRB
+###B RB
+###BBRR
 State 78
 
-RRRR###
-RRBB###
-RRBB###
-RBB RBB
-###BBBB
-###BBBR
-###RRRR
+BBBB###
+BRRR###
+RRRB###
+RRRRBRB
+###BBRB
+###BBR 
+###BBRR
 State 79
 
-RRRR###
-RRBB###
-RRBB###
-RBBBRBB
-###BBBB
-### BBR
-###RRRR
+BBBB###
+BRRR###
+RRRB###
+RRRRBRB
+###BBRB
+###BB R
+###BBRR
 State 80
 
-RRRR###
-RRBB###
-RRBB###
-RBBBRBB
-###BBBB
-###B BR
-###RRRR
+BBBB###
+BRRR###
+RRRB###
+RRRRB B
+###BBRB
+###BBRR
+###BBRR
 State 81
 
-RRRR###
-RRBB###
-RRBB###
-RBBB BB
-###BBBB
-###BRBR
-###RRRR
+BBBB###
+BRRR###
+RRRB###
+RRR BRB
+###BBRB
+###BBRR
+###BBRR
 State 82
 
-RRRR###
-RRBB###
-RRBB###
-RB BBBB
-###BBBB
-###BRBR
-###RRRR
+BBBB###
+BRR ###
+RRRB###
+RRRRBRB
+###BBRB
+###BBRR
+###BBRR
 State 83
 
-RRRR###
-RRBB###
-RRBB###
- BRBBBB
-###BBBB
-###BRBR
-###RRRR
+BBBB###
+BRRB###
+RRR ###
+RRRRBRB
+###BBRB
+###BBRR
+###BBRR
 State 84
 
-RRRR###
-RRBB###
-RRBB###
-B RBBBB
-###BBBB
-###BRBR
-###RRRR
+BBBB###
+BRRB###
+R RR###
+RRRRBRB
+###BBRB
+###BBRR
+###BBRR
 State 85
 
+BBBB###
+B RB###
 RRRR###
-RRBB###
-RRBB###
-BBR BBB
-###BBBB
-###BRBR
-###RRRR
+RRRRBRB
+###BBRB
+###BBRR
+###BBRR
 State 86
 
+BBBB###
+BBR ###
 RRRR###
-RRBB###
-RRBB###
-BBRBBBB
-###BBBB
-### RBR
-###RRRR
+RRRRBRB
+###BBRB
+###BBRR
+###BBRR
 State 87
 
+BBBB###
+BB R###
 RRRR###
-RRBB###
-RRBB###
-BBRBBBB
-###BBBB
-###BR R
-###RRRR
+RRRRBRB
+###BBRB
+###BBRR
+###BBRR
 State 88
 
-RRRR###
-RRBB###
-RRBB###
-BBRBBBB
-###BBBB
-###B RR
-###RRRR
+BBBB###
+BBRR###
+RR R###
+RRRRBRB
+###BBRB
+###BBRR
+###BBRR
 State 89
 
-RRRR###
-RRBB###
-RRBB###
-BBRB BB
-###BBBB
+BBBB###
+BBRR###
+ RRR###
+RRRRBRB
+###BBRB
 ###BBRR
-###RRRR
+###BBRR
 State 90
 
-RRRR###
-RRBB###
-RRBB###
-BB BRBB
-###BBBB
+BBBB###
+ BRR###
+BRRR###
+RRRRBRB
+###BBRB
 ###BBRR
-###RRRR
+###BBRR
 State 91
 
-RRRR###
-RRBB###
-RRBB###
-BBB RBB
-###BBBB
+BBBB###
+B RR###
+BRRR###
+RRRRBRB
+###BBRB
 ###BBRR
-###RRRR
+###BBRR
 State 92
 
-RRRR###
-RRBB###
-RRBB###
-BBBBRBB
-###BBBB
-### BRR
-###RRRR
+B BB###
+BBRR###
+BRRR###
+RRRRBRB
+###BBRB
+###BBRR
+###BBRR
 State 93
 
-RRRR###
-RRBB###
-RRBB###
-BBBBRBB
-###BBBB
-###B RR
-###RRRR
+BBB ###
+BBRR###
+BRRR###
+RRRRBRB
+###BBRB
+###BBRR
+###BBRR
 State 94
 
-RRRR###
-RRBB###
-RRBB###
-BBBB BB
-###BBBB
-###BRRR
-###RRRR
+BBBR###
+BBRR###
+BRR ###
+RRRRBRB
+###BBRB
+###BBRR
+###BBRR
 State 95
 
-RRRR###
-RRBB###
-RRBB###
-BBB BBB
-###BBBB
-###BRRR
-###RRRR
+BBBR###
+BBRR###
+BRRB###
+RRRRBRB
+### BRB
+###BBRR
+###BBRR
 State 96
 
-RRRR###
-RRBB###
-RRBB###
-B BBBBB
-###BBBB
-###BRRR
-###RRRR
+BBBR###
+BBRR###
+BRRB###
+RRRRBRB
+###BBRB
+###BBRR
+### BRR
 State 97
 
-RRRR###
-R BB###
-RRBB###
-BRBBBBB
-###BBBB
-###BRRR
-###RRRR
+BBBR###
+BBRR###
+BRRB###
+RRRRBRB
+###BBRB
+###BBRR
+###B RR
 State 98
 
-RRRR###
-RBB ###
-RRBB###
-BRBBBBB
-###BBBB
-###BRRR
-###RRRR
+BBBR###
+BBRR###
+BRRB###
+RRRRBRB
+###BBRB
+###BBRR
+###BR R
 State 99
 
-RRRR###
-RBBB###
-RRBB###
-BRB BBB
-###BBBB
+BBBR###
+BBRR###
+BRRB###
+RRRRBRB
+###BB B
+###BBRR
 ###BRRR
-###RRRR
 State 100
 
-RRRR###
-RBBB###
-RRBB###
-B BRBBB
-###BBBB
+BBBR###
+BBRR###
+BRRB###
+RRRRB B
+###BBRB
+###BBRR
 ###BRRR
-###RRRR
 State 101
 
-RRRR###
-RBBB###
-RRBB###
-BB RBBB
-###BBBB
+BBBR###
+BBRR###
+BRRB###
+RRR BRB
+###BBRB
+###BBRR
 ###BRRR
-###RRRR
 State 102
 
-RRRR###
-RBBB###
-RRBB###
-BBBR BB
-###BBBB
+BBBR###
+BBR ###
+BRRB###
+RRRRBRB
+###BBRB
+###BBRR
 ###BRRR
-###RRRR
 State 103
 
-RRRR###
-RBBB###
-RRBB###
-BBBRBBB
-###B BB
+BBB ###
+BBRR###
+BRRB###
+RRRRBRB
+###BBRB
+###BBRR
 ###BRRR
-###RRRR
 State 104
 
-RRRR###
-RBBB###
-RRBB###
-BBBRBBB
-###BBB 
+BBBB###
+BBRR###
+BRR ###
+RRRRBRB
+###BBRB
+###BBRR
 ###BRRR
-###RRRR
 State 105
 
-RRRR###
-RBBB###
-RRBB###
-BBBRBBB
-###BBBR
-###BRR 
-###RRRR
+BBBB###
+BBRR###
+BRRB###
+RRRRBRB
+### BRB
+###BBRR
+###BRRR
 State 106
 
-RRRR###
-RBBB###
-RRBB###
-BBBRBBB
-###BBBR
-###B RR
-###RRRR
+BBBB###
+BBRR###
+BRRB###
+RRR BRB
+###RBRB
+###BBRR
+###BRRR
 State 107
 
-RRRR###
-RBBB###
-RRBB###
-BBBRBBB
-###BBBR
-### BRR
-###RRRR
+BBBB###
+BBR ###
+BRRB###
+RRRRBRB
+###RBRB
+###BBRR
+###BRRR
 State 108
 
-RRRR###
-RBBB###
-RRBB###
-BBB BBB
-###BBBR
-###RBRR
-###RRRR
+BBBB###
+BBRB###
+BRR ###
+RRRRBRB
+###RBRB
+###BBRR
+###BRRR
 State 109
 
-RRRR###
-RBBB###
-RRBB###
-BBBBBBB
-### BBR
-###RBRR
-###RRRR
+BBBB###
+BBRB###
+BR R###
+RRRRBRB
+###RBRB
+###BBRR
+###BRRR
 State 110
 
-RRRR###
-RBBB###
-RRBB###
-BBBBBBB
-###B BR
-###RBRR
-###RRRR
+BBBB###
+BB B###
+BRRR###
+RRRRBRB
+###RBRB
+###BBRR
+###BRRR
 State 111
 
-RRRR###
-RBBB###
-RRBB###
-BBBBBBB
-###BBBR
-###R RR
-###RRRR
-State 112
-
-RRRR###
-RBBB###
-RRBB###
-BBBBBBB
-###BBBR
-###RRR 
-###RRRR
-State 113
-
-RRRR###
-RBBB###
-RRBB###
-BBBBBBB
-###BBB 
-###RRRR
-###RRRR
-State 114
-
-RRRR###
-RBBB###
-RRBB###
-BBBBBBB
-###BB B
-###RRRR
-###RRRR
-State 115
-
-RRRR###
-RBBB###
-RRBB###
-BBBBBBB
-### BBB
-###RRRR
-###RRRR
-State 116
-
-RRRR###
-RBBB###
-RRBB###
-BBB BBB
-###BBBB
-###RRRR
-###RRRR
-State 117
-
-RRRR###
-RBBB###
-RRBB###
-B BBBBB
-###BBBB
-###RRRR
-###RRRR
-State 118
-
-RRRR###
-RBBB###
-R BB###
-BRBBBBB
-###BBBB
-###RRRR
-###RRRR
-State 119
-
-RRRR###
-RBBB###
-RBB ###
-BRBBBBB
-###BBBB
-###RRRR
-###RRRR
-State 120
-
-RRRR###
-RBBB###
-RBBB###
-BRB BBB
-###BBBB
-###RRRR
-###RRRR
-State 121
-
-RRRR###
-RBBB###
-RBBB###
-B BRBBB
-###BBBB
-###RRRR
-###RRRR
-State 122
-
-RRRR###
-RBBB###
-RBBB###
-BB RBBB
-###BBBB
-###RRRR
-###RRRR
-State 123
-
-RRRR###
-RBBB###
-RBBB###
-BBBR BB
-###BBBB
-###RRRR
-###RRRR
-State 124
-
-RRRR###
-RBBB###
-RBBB###
-BBBRBBB
-###B BB
-###RRRR
-###RRRR
-State 125
-
-RRRR###
-RBBB###
-RBBB###
-BBBRBBB
-###BBB 
-###RRRR
-###RRRR
-State 126
-
-RRRR###
-RBBB###
-RBBB###
-BBBRBBB
-###BBBR
-###RRR 
-###RRRR
-State 127
-
-RRRR###
-RBBB###
-RBBB###
-BBBRBBB
-###BBBR
-###RR R
-###RRRR
-State 128
-
-RRRR###
-RBBB###
-RBBB###
-BBBRBBB
-###BBBR
-### RRR
-###RRRR
-State 129
-
-RRRR###
-RBBB###
-RBBB###
-BBB BBB
-###BBBR
-###RRRR
-###RRRR
-State 130
-
-RRRR###
-RBBB###
-RBBB###
-BB BBBB
-###BBBR
-###RRRR
-###RRRR
-State 131
-
-RRRR###
-RBBB###
-RBBB###
- BBBBBB
-###BBBR
-###RRRR
-###RRRR
-State 132
-
-RRRR###
-RBBB###
- BBB###
-RBBBBBB
-###BBBR
-###RRRR
-###RRRR
-State 133
-
-RRRR###
-RBBB###
-BB B###
-RBBBBBB
-###BBBR
-###RRRR
-###RRRR
-State 134
-
-RRRR###
-RBBB###
-BBBB###
-RB BBBB
-###BBBR
-###RRRR
-###RRRR
-State 135
-
-RRRR###
-RBBB###
-BBBB###
- BRBBBB
-###BBBR
-###RRRR
-###RRRR
-State 136
-
-RRRR###
-RBBB###
-BBBB###
-B RBBBB
-###BBBR
-###RRRR
-###RRRR
-State 137
-
-RRRR###
-RBBB###
-BBBB###
-BBR BBB
-###BBBR
-###RRRR
-###RRRR
-State 138
-
-RRRR###
-RBBB###
-BBBB###
-BBRB BB
-###BBBR
-###RRRR
-###RRRR
-State 139
-
-RRRR###
-RBBB###
-BBBB###
-BB BRBB
-###BBBR
-###RRRR
-###RRRR
-State 140
-
-RRRR###
-RBBB###
-BBBB###
-BBB RBB
-###BBBR
-###RRRR
-###RRRR
-State 141
-
-RRRR###
-RBBB###
-BBBB###
-BBBBRBB
-### BBR
-###RRRR
-###RRRR
-State 142
-
-RRRR###
-RBBB###
-BBBB###
-BBBBRBB
-###BB R
-###RRRR
-###RRRR
-State 143
-
-RRRR###
-RBBB###
-BBBB###
-BBBBRBB
-###BBRR
-###RR R
-###RRRR
-State 144
-
-RRRR###
-RBBB###
-BBBB###
-BBBBRBB
-###BBRR
-###R RR
-###RRRR
-State 145
-
-RRRR###
-RBBB###
-BBBB###
-BBBB BB
-###BBRR
-###RRRR
-###RRRR
-State 146
-
-RRRR###
-RBBB###
-BBBB###
-BB BBBB
-###BBRR
-###RRRR
-###RRRR
-State 147
-
-RRRR###
-RBBB###
-BBBB###
- BBBBBB
-###BBRR
-###RRRR
-###RRRR
-State 148
-
-RRRR###
- BBB###
-BBBB###
-RBBBBBB
-###BBRR
-###RRRR
-###RRRR
-State 149
-
-RRRR###
-BBBB###
- BBB###
-RBBBBBB
-###BBRR
-###RRRR
-###RRRR
-State 150
-
-RRRR###
-BBBB###
-BB B###
-RBBBBBB
-###BBRR
-###RRRR
-###RRRR
-State 151
-
-RRRR###
-BBBB###
-BBBB###
-RB BBBB
-###BBRR
-###RRRR
-###RRRR
-State 152
-
-RRRR###
-BBBB###
-BBBB###
- BRBBBB
-###BBRR
-###RRRR
-###RRRR
-State 153
-
-RRRR###
-BBBB###
-BBBB###
-B RBBBB
-###BBRR
-###RRRR
-###RRRR
-State 154
-
-RRRR###
-BBBB###
-BBBB###
-BBR BBB
-###BBRR
-###RRRR
-###RRRR
-State 155
-
-RRRR###
-BBBB###
-BBBB###
-BBRB BB
-###BBRR
-###RRRR
-###RRRR
-State 156
-
-RRRR###
-BBBB###
-BBBB###
-BB BRBB
-###BBRR
-###RRRR
-###RRRR
-State 157
-
-RRRR###
-BBBB###
-BBBB###
-BBB RBB
-###BBRR
-###RRRR
-###RRRR
-State 158
-
-RRRR###
-BBBB###
-BBBB###
-BBBBRBB
-### BRR
-###RRRR
-###RRRR
-State 159
-
-RRRR###
-BBBB###
-BBBB###
-BBBBRBB
-###B RR
-###RRRR
-###RRRR
-State 160
-
-RRRR###
-BBBB###
-BBBB###
-BBBB BB
-###BRRR
-###RRRR
-###RRRR
-State 161
-
-RRRR###
-BBBB###
-BBBB###
-BBB BBB
-###BRRR
-###RRRR
-###RRRR
-State 162
-
-RRRR###
 BBBB###
 BBB ###
-BBBBBBB
+BRRR###
+RRRRBRB
+###RBRB
+###BBRR
 ###BRRR
-###RRRR
-###RRRR
-State 163
+State 112
 
-RRR ###
 BBBB###
 BBBR###
-BBBBBBB
+BRR ###
+RRRRBRB
+###RBRB
+###BBRR
+###BRRR
+State 113
+
+BBBB###
+BBBR###
+BR R###
+RRRRBRB
+###RBRB
+###BBRR
+###BRRR
+State 114
+
+BBBB###
+BBBR###
+BRRR###
+RR RBRB
+###RBRB
+###BBRR
+###BRRR
+State 115
+
+BBBB###
+BBBR###
+BRRR###
+RRBR RB
+###RBRB
+###BBRR
+###BRRR
+State 116
+
+BBBB###
+BBBR###
+BRRR###
+RRBRBR 
+###RBRB
+###BBRR
+###BRRR
+State 117
+
+BBBB###
+BBBR###
+BRRR###
+RRBRB R
+###RBRB
+###BBRR
+###BRRR
+State 118
+
+BBBB###
+BBBR###
+BRRR###
+RRB BRR
+###RBRB
+###BBRR
+###BRRR
+State 119
+
+BBBB###
+BBBR###
+BRRR###
+R BRBRR
+###RBRB
+###BBRR
+###BRRR
+State 120
+
+BBBB###
+BBBR###
+BRRR###
+RB RBRR
+###RBRB
+###BBRR
+###BRRR
+State 121
+
+BBBB###
+BBBR###
+BRRR###
+RBBR RR
+###RBRB
+###BBRR
+###BRRR
+State 122
+
+BBBB###
+BBBR###
+BRRR###
+RBB RRR
+###RBRB
+###BBRR
+###BRRR
+State 123
+
+BBBB###
+BBBR###
+BRRR###
+RBBBRRR
+###RBRB
+### BRR
+###BRRR
+State 124
+
+BBBB###
+BBBR###
+BRRR###
+RBBBRRR
+### BRB
+###RBRR
+###BRRR
+State 125
+
+BBBB###
+BBBR###
+BRR ###
+RBBBRRR
+###RBRB
+###RBRR
+###BRRR
+State 126
+
+BBBB###
+BBBR###
+B RR###
+RBBBRRR
+###RBRB
+###RBRR
+###BRRR
+State 127
+
+BBBB###
+BBBR###
+BBRR###
+R BBRRR
+###RBRB
+###RBRR
+###BRRR
+State 128
+
+BBBB###
+BBBR###
+BBRR###
+RBB RRR
+###RBRB
+###RBRR
+###BRRR
+State 129
+
+BBBB###
+BBBR###
+BBR ###
+RBBRRRR
+###RBRB
+###RBRR
+###BRRR
+State 130
+
+BBBB###
+BBBR###
+BB R###
+RBBRRRR
+###RBRB
+###RBRR
+###BRRR
+State 131
+
+BBBB###
+BBBR###
+BBBR###
+RB RRRR
+###RBRB
+###RBRR
+###BRRR
+State 132
+
+BBBB###
+BBBR###
+BBBR###
+ BRRRRR
+###RBRB
+###RBRR
+###BRRR
+State 133
+
+BBBB###
+BBBR###
+BBBR###
+B RRRRR
+###RBRB
+###RBRR
+###BRRR
+State 134
+
+BBBB###
+BBBR###
+BBBR###
+BR RRRR
+###RBRB
+###RBRR
+###BRRR
+State 135
+
+BBBB###
+BBBR###
+BBBR###
+BRRR RR
+###RBRB
+###RBRR
+###BRRR
+State 136
+
+BBBB###
+BBBR###
+BBBR###
+BRRRBRR
+###RBRB
+###R RR
+###BRRR
+State 137
+
+BBBB###
+BBBR###
+BBBR###
+BRRRBRR
+###RBRB
+### RRR
+###BRRR
+State 138
+
+BBBB###
+BBBR###
+BBBR###
+BRR BRR
+###RBRB
+###RRRR
+###BRRR
+State 139
+
+BBBB###
+BBBR###
+BBBR###
+BRRB RR
+###RBRB
+###RRRR
+###BRRR
+State 140
+
+BBBB###
+BBBR###
+BBBR###
+BR BRRR
+###RBRB
+###RRRR
+###BRRR
+State 141
+
+BBBB###
+BBBR###
+BBBR###
+BRB RRR
+###RBRB
+###RRRR
+###BRRR
+State 142
+
+BBBB###
+BBBR###
+BBBR###
+B BRRRR
+###RBRB
+###RRRR
+###BRRR
+State 143
+
+BBBB###
+BBBR###
+BBBR###
+BB RRRR
+###RBRB
+###RRRR
+###BRRR
+State 144
+
+BBBB###
+BBBR###
+BBBR###
+BBRR RR
+###RBRB
+###RRRR
+###BRRR
+State 145
+
+BBBB###
+BBBR###
+BBBR###
+BBRRBRR
+###R RB
+###RRRR
+###BRRR
+State 146
+
+BBBB###
+BBBR###
+BBBR###
+BBRRBRR
+###RBR 
+###RRRR
+###BRRR
+State 147
+
+BBBB###
+BBBR###
+BBBR###
+BBRRBR 
+###RBRR
+###RRRR
+###BRRR
+State 148
+
+BBBB###
+BBBR###
+BBBR###
+BBRRB R
+###RBRR
+###RRRR
+###BRRR
+State 149
+
+BBBB###
+BBBR###
+BBBR###
+BBR BRR
+###RBRR
+###RRRR
+###BRRR
+State 150
+
+BBBB###
+BBB ###
+BBBR###
+BBRRBRR
+###RBRR
+###RRRR
+###BRRR
+State 151
+
+BBBB###
+BB B###
+BBBR###
+BBRRBRR
+###RBRR
+###RRRR
+###BRRR
+State 152
+
+BBBB###
+BBBB###
+BB R###
+BBRRBRR
+###RBRR
+###RRRR
+###BRRR
+State 153
+
+BBBB###
+BBBB###
+BBRR###
+BB RBRR
+###RBRR
+###RRRR
+###BRRR
+State 154
+
+BBBB###
+BBBB###
+BBRR###
+BBBR RR
+###RBRR
+###RRRR
+###BRRR
+State 155
+
+BBBB###
+BBBB###
+BBRR###
+BBB RRR
+###RBRR
+###RRRR
+###BRRR
+State 156
+
+BBBB###
+BBBB###
+BBR ###
+BBBRRRR
+###RBRR
+###RRRR
+###BRRR
+State 157
+
+BBBB###
+BBBB###
+BB R###
+BBBRRRR
+###RBRR
+###RRRR
+###BRRR
+State 158
+
+BBBB###
+BBBB###
+BBBR###
+BB RRRR
+###RBRR
+###RRRR
+###BRRR
+State 159
+
+BBBB###
+BBBB###
+BBBR###
+BBRR RR
+###RBRR
+###RRRR
+###BRRR
+State 160
+
+BBBB###
+BBBB###
+BBBR###
+BBRRBRR
+###R RR
+###RRRR
+###BRRR
+State 161
+
+BBBB###
+BBBB###
+BBBR###
+BBRRBRR
+### RRR
+###RRRR
+###BRRR
+State 162
+
+BBBB###
+BBBB###
+BBBR###
+BBRRBRR
 ###BRRR
 ###RRRR
+### RRR
+State 163
+
+BBBB###
+BBBB###
+BBBR###
+BBRRBRR
+###BRRR
+### RRR
 ###RRRR
 State 164
 
-RRRB###
-BBB ###
+BBBB###
+BBBB###
 BBBR###
-BBBBBBB
+BBR BRR
 ###BRRR
 ###RRRR
 ###RRRR
 State 165
 
-RRRB###
+BBBB###
 BBBB###
 BBBR###
-BBB BBB
+BBRB RR
 ###BRRR
 ###RRRR
 ###RRRR
 State 166
 
-RRRB###
+BBBB###
 BBBB###
 BBBR###
-BBBBBBB
-### RRR
+BB BRRR
+###BRRR
 ###RRRR
 ###RRRR
 State 167
 
-RRRB###
 BBBB###
-BBB ###
-BBBBBBB
-###RRRR
+BBBB###
+BBBR###
+BBB RRR
+###BRRR
 ###RRRR
 ###RRRR
 State 168
 
-RRRB###
 BBBB###
-BB B###
-BBBBBBB
-###RRRR
+BBBB###
+BBBR###
+BBBBRRR
+### RRR
 ###RRRR
 ###RRRR
 State 169
 
-RR B###
 BBBB###
-BBRB###
-BBBBBBB
+BBBB###
+BBB ###
+BBBBRRR
 ###RRRR
 ###RRRR
 ###RRRR
 State 170
-
-RRBB###
-BB B###
-BBRB###
-BBBBBBB
-###RRRR
-###RRRR
-###RRRR
-State 171
-
-RRBB###
-BBBB###
-BBRB###
-BB BBBB
-###RRRR
-###RRRR
-###RRRR
-State 172
-
-RRBB###
-BBBB###
-BB B###
-BBRBBBB
-###RRRR
-###RRRR
-###RRRR
-State 173
-
-RRBB###
-BBBB###
-BBB ###
-BBRBBBB
-###RRRR
-###RRRR
-###RRRR
-State 174
-
-RRBB###
-BBBB###
-BBBB###
-BBR BBB
-###RRRR
-###RRRR
-###RRRR
-State 175
-
-RRBB###
-BBBB###
-BBBB###
-BBRB BB
-###RRRR
-###RRRR
-###RRRR
-State 176
-
-RRBB###
-BBBB###
-BBBB###
-BB BRBB
-###RRRR
-###RRRR
-###RRRR
-State 177
-
-RRBB###
-BBBB###
-BBBB###
-BBB RBB
-###RRRR
-###RRRR
-###RRRR
-State 178
-
-RRBB###
-BBBB###
-BBBB###
-BBBBR B
-###RRRR
-###RRRR
-###RRRR
-State 179
-
-RRBB###
-BBBB###
-BBBB###
-BBBBRB 
-###RRRR
-###RRRR
-###RRRR
-State 180
-
-RRBB###
-BBBB###
-BBBB###
-BBBB BR
-###RRRR
-###RRRR
-###RRRR
-State 181
-
-RRBB###
-BBBB###
-BBBB###
-BBB BBR
-###RRRR
-###RRRR
-###RRRR
-State 182
-
-RRBB###
-BBBB###
-BBBB###
-B BBBBR
-###RRRR
-###RRRR
-###RRRR
-State 183
-
-RRBB###
-BBBB###
-B BB###
-BBBBBBR
-###RRRR
-###RRRR
-###RRRR
-State 184
-
-R BB###
-BBBB###
-BRBB###
-BBBBBBR
-###RRRR
-###RRRR
-###RRRR
-State 185
-
-RBBB###
-B BB###
-BRBB###
-BBBBBBR
-###RRRR
-###RRRR
-###RRRR
-State 186
-
-RBBB###
-BBBB###
-BRBB###
-B BBBBR
-###RRRR
-###RRRR
-###RRRR
-State 187
-
-RBBB###
-BBBB###
-B BB###
-BRBBBBR
-###RRRR
-###RRRR
-###RRRR
-State 188
-
-RBBB###
-BBBB###
-BBB ###
-BRBBBBR
-###RRRR
-###RRRR
-###RRRR
-State 189
-
-RBBB###
-BBBB###
-BBBB###
-BRB BBR
-###RRRR
-###RRRR
-###RRRR
-State 190
-
-RBBB###
-BBBB###
-BBBB###
-B BRBBR
-###RRRR
-###RRRR
-###RRRR
-State 191
-
-RBBB###
-BBBB###
-BBBB###
-BB RBBR
-###RRRR
-###RRRR
-###RRRR
-State 192
-
-RBBB###
-BBBB###
-BBBB###
-BBBR BR
-###RRRR
-###RRRR
-###RRRR
-State 193
-
-RBBB###
-BBBB###
-BBBB###
-BBBRB R
-###RRRR
-###RRRR
-###RRRR
-State 194
-
-RBBB###
-BBBB###
-BBBB###
-BBB BRR
-###RRRR
-###RRRR
-###RRRR
-State 195
-
-RBBB###
-BBBB###
-BBBB###
-BB BBRR
-###RRRR
-###RRRR
-###RRRR
-State 196
-
-RBBB###
-BBBB###
-BBBB###
- BBBBRR
-###RRRR
-###RRRR
-###RRRR
-State 197
-
-RBBB###
-BBBB###
- BBB###
-BBBBBRR
-###RRRR
-###RRRR
-###RRRR
-State 198
-
- BBB###
-BBBB###
-RBBB###
-BBBBBRR
-###RRRR
-###RRRR
-###RRRR
-State 199
-
-BBBB###
- BBB###
-RBBB###
-BBBBBRR
-###RRRR
-###RRRR
-###RRRR
-State 200
-
-BBBB###
-BBBB###
-RBBB###
- BBBBRR
-###RRRR
-###RRRR
-###RRRR
-State 201
-
-BBBB###
-BBBB###
- BBB###
-RBBBBRR
-###RRRR
-###RRRR
-###RRRR
-State 202
-
-BBBB###
-BBBB###
-BB B###
-RBBBBRR
-###RRRR
-###RRRR
-###RRRR
-State 203
-
-BBBB###
-BBBB###
-BBBB###
-RB BBRR
-###RRRR
-###RRRR
-###RRRR
-State 204
-
-BBBB###
-BBBB###
-BBBB###
- BRBBRR
-###RRRR
-###RRRR
-###RRRR
-State 205
-
-BBBB###
-BBBB###
-BBBB###
-B RBBRR
-###RRRR
-###RRRR
-###RRRR
-State 206
-
-BBBB###
-BBBB###
-BBBB###
-BBR BRR
-###RRRR
-###RRRR
-###RRRR
-State 207
-
-BBBB###
-BBBB###
-BBBB###
-BBRB RR
-###RRRR
-###RRRR
-###RRRR
-State 208
-
-BBBB###
-BBBB###
-BBBB###
-BB BRRR
-###RRRR
-###RRRR
-###RRRR
-State 209
 
 BBBB###
 BBBB###
@@ -1895,7 +1544,7 @@ BBB RRR
 ###RRRR
 ###RRRR
 ###RRRR
-State 210
+State 171
 
-Solution has 210 steps.
+Solution has 171 steps.
 

@@ -1,9 +1,14 @@
-﻿  el.cpp
-el.cpp(318): warning C4101: 'fv': unreferenced local variable
-  foreAndAft.cpp
+﻿  foreAndAft.cpp
+foreAndAft.cpp(299): warning C4552: '-': operator has no effect; expected operator with side-effect
+foreAndAft.cpp(300): warning C4552: '-': operator has no effect; expected operator with side-effect
+foreAndAft.cpp(287): warning C4101: 'value': unreferenced local variable
+foreAndAft.cpp(321): warning C4552: '-': operator has no effect; expected operator with side-effect
+foreAndAft.cpp(322): warning C4552: '-': operator has no effect; expected operator with side-effect
+foreAndAft.cpp(309): warning C4101: 'value': unreferenced local variable
+foreAndAft.cpp(431): warning C4101: 'fv': unreferenced local variable
   Generating code
-  382 of 419 functions (91.2%) were compiled, the rest were copied from previous compilation.
-    26 functions were new in current compilation
-    3 functions had inline decision re-evaluated but remain unchanged
+  333 of 339 functions (98.2%) were compiled, the rest were copied from previous compilation.
+    42 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
-  foreAndAft.vcxproj -> C:\Users\kadew\Documents\GitHub\ForeAndAft\foreAndAft\x64\Release\foreAndAft.exe
+  foreAndAft.vcxproj -> C:\Users\Kade\Documents\GitHub\ForeAndAft\foreAndAft\x64\Release\foreAndAft.exe

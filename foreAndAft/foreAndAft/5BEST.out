@@ -7,493 +7,416 @@ State 0
 
 RRR##
 RRR##
-RRBBB
-## BB
+RRB B
+##BBB
 ##BBB
 State 1
 
 RRR##
-RR ##
-RRBBB
-##RBB
+RRR##
+R BRB
+##BBB
 ##BBB
 State 2
 
 RRR##
-RRB##
-RR BB
-##RBB
+RRR##
+ RBRB
+##BBB
 ##BBB
 State 3
 
 RRR##
-RRB##
-RRBBB
-##RBB
-## BB
+RRR##
+BR RB
+##BBB
+##BBB
 State 4
 
+RR ##
 RRR##
-RRB##
-RRBBB
-## BB
-##RBB
+BRRRB
+##BBB
+##BBB
 State 5
 
+ RR##
 RRR##
-RRB##
-RRBBB
-##BB 
-##RBB
+BRRRB
+##BBB
+##BBB
 State 6
 
+BRR##
 RRR##
-RRB##
-RRBBB
+ RRRB
 ##BBB
-##RB 
+##BBB
 State 7
 
-RRR##
-RRB##
-RRBBB
+BRR##
+ RR##
+RRRRB
 ##BBB
-## BR
+##BBB
 State 8
 
-RRR##
-RRB##
-RRBBB
+BRR##
+RR ##
+RRRRB
 ##BBB
-##B R
+##BBB
 State 9
 
-RRR##
+BRR##
 RRB##
-RRB B
+RRRRB
+## BB
 ##BBB
-##BBR
 State 10
 
-RRR##
+BRR##
 RRB##
-R BRB
+RRRRB
+##BB 
 ##BBB
-##BBR
 State 11
 
-RRR##
+BRR##
 RRB##
-RB RB
+RRRRB
 ##BBB
-##BBR
+##BB 
 State 12
 
-RRR##
+BRR##
 RRB##
-RBBRB
+RRRRB
 ##BBB
-## BR
+##B B
 State 13
 
-RRR##
+BRR##
 RRB##
-RBBRB
+RRR B
 ##BBB
-##B R
+##BRB
 State 14
 
-RRR##
+BRR##
 RRB##
-RBB B
+R RRB
 ##BBB
-##BRR
+##BRB
 State 15
 
-RRR##
-RRB##
-RB BB
+BRR##
+R B##
+RRRRB
 ##BBB
-##BRR
+##BRB
 State 16
 
-RR ##
-RRB##
-RBRBB
+BRR##
+RB ##
+RRRRB
 ##BBB
-##BRR
+##BRB
 State 17
 
-RRB##
-RR ##
-RBRBB
-##BBB
-##BRR
+BRR##
+RBB##
+RRRRB
+## BB
+##BRB
 State 18
 
-RRB##
-RRB##
-RBRBB
-## BB
-##BRR
+BRR##
+RBB##
+RRRRB
+##BB 
+##BRB
 State 19
 
-RRB##
-RRB##
-RBRBB
+BRR##
+RBB##
+RRRRB
 ##BBB
-## RR
+##BR 
 State 20
 
-RRB##
-RRB##
-RB BB
+BRR##
+RBB##
+RRRRB
 ##BBB
-##RRR
+##B R
 State 21
 
-RRB##
-RRB##
- BRBB
+BRR##
+RBB##
+RRR B
 ##BBB
-##RRR
+##BRR
 State 22
 
-RRB##
-RRB##
-B RBB
+BRR##
+RBB##
+R RRB
 ##BBB
-##RRR
+##BRR
 State 23
 
-RRB##
-RRB##
-BBR B
+B R##
+RBB##
+RRRRB
 ##BBB
-##RRR
+##BRR
 State 24
 
-RRB##
-RRB##
-BBRBB
-##B B
-##RRR
+BBR##
+R B##
+RRRRB
+##BBB
+##BRR
 State 25
 
-RRB##
-RRB##
-BBRBB
-##BB 
-##RRR
+BBR##
+RB ##
+RRRRB
+##BBB
+##BRR
 State 26
 
-RRB##
-RRB##
-BBRBB
-##BBR
-##RR 
+BBR##
+RBB##
+RRRRB
+## BB
+##BRR
 State 27
 
-RRB##
-RRB##
-BBRBB
-##BBR
-## RR
+BBR##
+RBB##
+RR RB
+##RBB
+##BRR
 State 28
 
-RRB##
-RRB##
-BB BB
-##BBR
-##RRR
+BB ##
+RBB##
+RRRRB
+##RBB
+##BRR
 State 29
 
-RRB##
-RRB##
-B BBB
-##BBR
-##RRR
+BBB##
+RB ##
+RRRRB
+##RBB
+##BRR
 State 30
 
-RRB##
-R B##
-BRBBB
-##BBR
-##RRR
+BBB##
+ BR##
+RRRRB
+##RBB
+##BRR
 State 31
 
-RRB##
-RB ##
-BRBBB
-##BBR
-##RRR
+BBB##
+B R##
+RRRRB
+##RBB
+##BRR
 State 32
 
-RRB##
-RBB##
-BRBBB
-## BR
-##RRR
+BBB##
+BR ##
+RRRRB
+##RBB
+##BRR
 State 33
 
-RRB##
-RBB##
-BRBBB
-##B R
-##RRR
+BBB##
+BRR##
+RR RB
+##RBB
+##BRR
 State 34
 
-RRB##
-RBB##
-BRB B
-##BBR
-##RRR
+BBB##
+BRR##
+RRBR 
+##RBB
+##BRR
 State 35
 
-RRB##
-RBB##
-B BRB
-##BBR
-##RRR
+BBB##
+BRR##
+RRB R
+##RBB
+##BRR
 State 36
 
-RRB##
-RBB##
-BB RB
-##BBR
-##RRR
+BBB##
+BRR##
+R BRR
+##RBB
+##BRR
 State 37
 
-RRB##
-RBB##
-BBBRB
-## BR
-##RRR
+BBB##
+BRR##
+RB RR
+##RBB
+##BRR
 State 38
 
-RRB##
-RBB##
-BBBRB
-##B R
-##RRR
+BBB##
+BRR##
+RBBRR
+##RBB
+## RR
 State 39
 
-RRB##
-RBB##
-BBB B
-##BRR
+BBB##
+BRR##
+RBBRR
+## BB
 ##RRR
 State 40
 
-RRB##
-RBB##
-B BBB
-##BRR
+BBB##
+BR ##
+RBBRR
+##RBB
 ##RRR
 State 41
 
-R B##
-RBB##
-BRBBB
-##BRR
+BBB##
+B R##
+RBBRR
+##RBB
 ##RRR
 State 42
 
-RBB##
-R B##
-BRBBB
-##BRR
+BBB##
+BBR##
+R BRR
+##RBB
 ##RRR
 State 43
 
-RBB##
-RB ##
-BRBBB
-##BRR
+BBB##
+BBR##
+RB RR
+##RBB
 ##RRR
 State 44
 
-RBB##
-RBB##
-BR BB
-##BRR
+BBB##
+BBR##
+ BRRR
+##RBB
 ##RRR
 State 45
 
-RBB##
-RBB##
-BRB B
-##BRR
+BBB##
+BBR##
+B RRR
+##RBB
 ##RRR
 State 46
 
-RBB##
-RBB##
-B BRB
-##BRR
+BBB##
+BBR##
+BRR R
+##RBB
 ##RRR
 State 47
 
-RBB##
-RBB##
-BB RB
-##BRR
+BBB##
+BBR##
+BRRBR
+##R B
 ##RRR
 State 48
 
-RBB##
-RBB##
-BBBRB
-## RR
+BBB##
+BBR##
+BRRBR
+##RB 
 ##RRR
 State 49
 
-RBB##
-RBB##
-BBBRB
-##R R
+BBB##
+BBR##
+BRRBR
+## BR
 ##RRR
 State 50
 
-RBB##
-RBB##
-BBB B
-##RRR
+BBB##
+BBR##
+BR BR
+##RBR
 ##RRR
 State 51
 
-RBB##
-RBB##
-BB BB
-##RRR
+BBB##
+BBR##
+BRB R
+##RBR
 ##RRR
 State 52
 
-RBB##
-RBB##
- BBBB
-##RRR
+BBB##
+BBR##
+BRBBR
+##R R
 ##RRR
 State 53
 
-RBB##
- BB##
-RBBBB
-##RRR
+BBB##
+BBR##
+BRBBR
+## RR
 ##RRR
 State 54
 
-RBB##
+BBB##
 BB ##
-RBBBB
+BRBBR
 ##RRR
 ##RRR
 State 55
 
-RBB##
 BBB##
-RB BB
+BBB##
+BR BR
 ##RRR
 ##RRR
 State 56
 
-RBB##
 BBB##
- BRBB
+BBB##
+BRB R
 ##RRR
 ##RRR
 State 57
 
-RBB##
 BBB##
-B RBB
+BBB##
+B BRR
 ##RRR
 ##RRR
 State 58
-
-RBB##
-BBB##
-BBR B
-##RRR
-##RRR
-State 59
-
-RBB##
-BBB##
-BBRB 
-##RRR
-##RRR
-State 60
-
-RBB##
-BBB##
-BB BR
-##RRR
-##RRR
-State 61
-
-RBB##
-BBB##
- BBBR
-##RRR
-##RRR
-State 62
-
- BB##
-BBB##
-RBBBR
-##RRR
-##RRR
-State 63
-
-BBB##
- BB##
-RBBBR
-##RRR
-##RRR
-State 64
-
-BBB##
-BB ##
-RBBBR
-##RRR
-##RRR
-State 65
-
-BBB##
-BBB##
-RB BR
-##RRR
-##RRR
-State 66
-
-BBB##
-BBB##
- BRBR
-##RRR
-##RRR
-State 67
-
-BBB##
-BBB##
-B RBR
-##RRR
-##RRR
-State 68
-
-BBB##
-BBB##
-BBR R
-##RRR
-##RRR
-State 69
 
 BBB##
 BBB##
 BB RR
 ##RRR
 ##RRR
-State 70
+State 59
 
-Solution has 70 steps.
+Solution has 59 steps.
 

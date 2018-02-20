@@ -21,31 +21,7 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="structs.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="five.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="fiveHeap.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="seven.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="sevenHeap.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="nine.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="nineHeap.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="el.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="elevenHeap.h">
+    <ClInclude Include="heap.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -54,18 +30,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="foreAndAft.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="seven.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="nine.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="fiveGame.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="el.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

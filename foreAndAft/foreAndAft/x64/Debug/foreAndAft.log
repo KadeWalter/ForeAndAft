@@ -1,7 +1,0 @@
-﻿  foreAndAft.cpp
-c:\users\kade\documents\github\foreandaft\foreandaft\foreandaft\foreandaft.cpp(300): warning C4101: 'dc': unreferenced local variable
-c:\users\kade\documents\github\foreandaft\foreandaft\foreandaft\foreandaft.cpp(300): warning C4101: 'dr': unreferenced local variable
-c:\users\kade\documents\github\foreandaft\foreandaft\foreandaft\foreandaft.cpp(300): warning C4101: 'c': unreferenced local variable
-c:\users\kade\documents\github\foreandaft\foreandaft\foreandaft\foreandaft.cpp(300): warning C4101: 'r': unreferenced local variable
-c:\users\kade\documents\github\foreandaft\foreandaft\foreandaft\foreandaft.cpp(356): warning C4101: 'fv': unreferenced local variable
-  foreAndAft.vcxproj -> C:\Users\Kade\Documents\GitHub\ForeAndAft\foreAndAft\x64\Debug\foreAndAft.exe
